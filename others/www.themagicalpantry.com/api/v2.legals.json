@@ -1,0 +1,977 @@
+{
+    "page": 1,
+    "results_per_page": 20,
+    "results_size": 1,
+    "total_results_size": 1,
+    "total_pages": 1,
+    "next_page": null,
+    "prev_page": null,
+    "results":
+    [
+        {
+            "id": "YwNQ3hYAACcAMSub",
+            "uid": null,
+            "url": null,
+            "type": "legals",
+            "href": "https://kerrygold-kitchentable.cdn.prismic.io/api/v2/documents/search?ref=Y0XdehAAACcAj23B&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YwNQ3hYAACcAMSub%22%29+%5D%5D",
+            "tags":
+            [],
+            "first_publication_date": "2022-08-22T09:48:17+0000",
+            "last_publication_date": "2022-08-30T19:01:25+0000",
+            "slugs":
+            [
+                "legals"
+            ],
+            "linked_documents":
+            [],
+            "lang": "en-us",
+            "alternate_languages":
+            [],
+            "data":
+            {
+                "title":
+                [
+                    {
+                        "type": "heading1",
+                        "text": "Legal",
+                        "spans":
+                        []
+                    }
+                ],
+                "content":
+                [
+                    {
+                        "type": "heading2",
+                        "text": "TERMS AND CONDITIONS",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "TERMS AND CONDITIONS AND ACCEPTABLE USE POLICY",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 46,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "ACCEPTANCE OF TERMS",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 19,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "This website is operated by Ornua Co-operative Limited of Grattan House, Mount Street Lower, Dublin 2, Ireland, together with its subsidiaries and affiliates (“Ornua“). Your use of this website and any official social media pages controlled by us (the “Site“) is subject to the terms and conditions set out below (“Terms of Use“). By accessing and using the Site you are agreeing to be bound by these Terms of Use. By using the Site, you agree that you are of legal age to enter into these Terms of Use, and if you are not, you have obtained parental or guardian consent to enter into these Terms of Use. You should not access or use the Site unless you have read and agreed to these Terms of Use.",
+                        "spans":
+                        [
+                            {
+                                "start": 160,
+                                "end": 165,
+                                "type": "strong"
+                            },
+                            {
+                                "start": 253,
+                                "end": 257,
+                                "type": "strong"
+                            },
+                            {
+                                "start": 315,
+                                "end": 327,
+                                "type": "strong"
+                            },
+                            {
+                                "start": 331,
+                                "end": 604,
+                                "type": "strong"
+                            },
+                            {
+                                "start": 605,
+                                "end": 697,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "COPYRIGHT NOTICE",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 16,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "The information, content, software, downloads, interfaces, graphics, text, design, audio and video clips, images, buttons, trademarks, service marks, trade names and logos (the “Materials“) contained on the Site and the Site itself is the exclusive property of and owned by Ornua, its licensors or content providers and is protected by copyright, trade mark, database right, sui generis right and other intellectual property laws, under national laws and international treaties. Ornua and/or its licensors (as the case may be) retain all right, title, interest and intellectual property rights in and to the Materials.",
+                        "spans":
+                        [
+                            {
+                                "start": 178,
+                                "end": 187,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Other than as expressly provided herein nothing in these Terms of Use should be construed as conferring by implication or otherwise any licence or right under any copyright, patent, trade mark, database right, sui generis right or other intellectual property or proprietary interest of Ornua, its licensors or any third party.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Ornua does not warrant that your use of the Materials on the Site will not infringe the rights of third parties.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "USE OF MATERIALS",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 16,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "You may access, share, copy, download or print any Materials contained on the Site for your personal and non-commercial use, provided that you do not modify or delete any copyright, trademark or other proprietary notice that appears on such Material. The Materials are provided to you under a license that is revocable at any time at Ornua’s discretion.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Any other use of the Materials, products and services contained on or forming part of this Site including their modification, distribution, republication, licensing, extraction, re-utilization, incorporation or integration with other Materials, re-delivery using framing technology, the creation of derivative works from or reselling of, is strictly prohibited and is a violation of the proprietary rights of Ornua.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "MATERIALS SHARED BY YOU",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "If you share/upload Materials with us and other users of the Site, such Materials may become publicly accessible.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "You hereby grant to Ornua a worldwide, non-exclusive, transferable, royalty and compensation free, perpetual, irrevocable right and license to use, reproduce, distribute, adapt, derive, transmit and display, publicly or otherwise, such Materials, in any media form and to sub-licence those rights for Ornua’s business purposes.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "If you share/upload ideas to the Site, we are under no obligation to respect such ideas and may use them for any purpose whatsoever. You waive any moral or other rights in any Materials you submit to the Site.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "You are responsible for the legality, reliability, appropriateness, originality and copyright of such Materials.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "You agree that you have the right to share such Materials through the Site, such Materials comply with all applicable laws, do not infringe the rights of any third party and are not unlawful, fraudulent, proprietary, false, defamatory, obscene, offensive, illegal or confidential.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "CONDUCT ON THE SITE",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 19,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Your use of the Site must at all times comply with all applicable laws, rules and regulations.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "You will not use the Site or share or upload Materials or computer programs on the Site in any manner which is malicious or technologically harmful, could damage, disable, overburden or impair the Site or the facilities and/or services that are available on it or interfere with any other party’s use of the Site, its facilities and/or services.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "You will not use the Site to transmit, or procure the sending of, any unsolicited or unauthorized advertising or promotional material or any other form of similar solicitation (spam).",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "You may not attempt to gain unauthorized access to the Site, its facilities and/or services or any accounts, computer systems and networks connected to the Site or any other Site operated by Ornua through hacking, password mining or any other means. You shall not attack the Site via a denial of service attack.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "You agree not to use the Site to harvest or otherwise collect by any means any program material or any information whatsoever (including without limitation email addresses or other personal details of other users).",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "LINKS TO THIRD PARTY SITES",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 26,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "This Site contains links to third party websites. Your use of third party websites is subject to the terms and conditions of use contained within each of those websites and is not subject to these Terms of Use. Your access to any other websites through the Site is at your own risk. We are not responsible or liable for the accuracy of any information, data, opinions or statements made on third party websites or the security of any link or communication with third party websites. Ornua reserves the right to terminate a link to a third party websites at any time. Ornua provides links to third party websites for your convenience and the fact that Ornua provides any such links does not mean that Ornua sponsors, endorses or authorises such websites.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "DISCLAIMER",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 10,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "All use by you of the Site is at your own risk. You assume complete responsibility for, and for all risk of loss resulting from, your downloading from, uploading to and/or using of, or referring to or relying on facilities, services or Materials provided on the Site, or any other information obtained from your use of the Site. You agree that Ornua will not be liable for damages arising out of your use or your inability to use the Site, and you hereby waive any and all claims with respect thereto, whether based on contract, tort or other grounds.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "This Site is available to all users “as is”. Ornua makes no representations, warranties or undertakings that the Site, or the server that makes it available, will be free from defects, including, but not limited to viruses or other harmful elements. Ornua accepts no liability for any infection by computer virus, bug, tampering, unauthorised access, intervention, alteration or use, fraud, theft, technical failure, error, omission, interruption, deletion, defect, delay, or any event or occurrence beyond the control of Ornua, which corrupts or affects the administration, security, fairness and the integrity or proper conduct of any aspect of the Site. Ornua makes no representations, conditions, warranties or undertakings about any of the facilities, services and/or Materials on the Site, either express or implied, including without limitation, their accuracy, their completeness or their merchantability, quality or fitness for a particular purpose.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "You should note that the pages contained in the Site may contain technical inaccuracies and typographical errors. The information in the Site may also be updated from time to time but we do not accept any responsibility for keeping the information in these pages up-to-date and exclude all liability for any failure to do so. You should also note that there are certain inherent risks in using the Internet and the World Wide Web and by accessing and using the Site you indicate your understanding that your use and the use generally of the Site cannot be guaranteed to be free from interference by third parties or to remain private and confidential.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "AVAILABILITY",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 12,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Although Ornua endeavours to ensure the Site is available at all times, there may be occasions when interruption to the Site may occur, e.g. to allow maintenance, upgrades and emergency repairs to take place, or due to failure of telecommunications links and equipment that are beyond our control. You agree that Ornua shall not be liable to you or any third party for any loss incurred by you resulting from the interruption, modification, suspension or discontinuance of the Site, whether it was justified or not, negligent or intentional, inadvertent or advertent.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "LIMITATION OF LIABILITY",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "To the fullest extent permitted by applicable law, neither Ornua nor any of its officers or other representatives will be liable for loss or damages arising out of or in connection with your use, inability to use or reliance on any facilities, services and/or Materials offered through or from the Site, including, but not limited to, direct loss, loss of data, work stoppage, computer failure or malfunction, business interruption, loss of income, profit or opportunity, loss of or damage to property and claims of third parties or for any indirect or consequential loss whatsoever, even if Ornua has been advised of the possibility of such loss or damages, or such loss or damages were reasonably foreseeable.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "In no event shall Ornua nor any of its officers or other representatives assume any responsibility or liability for any damages whatsoever resulting from the conduct of any third party on or in relation to the Site of from the Materials shared/uploaded by any third party to the Site.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "INDEMNITY",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 9,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "You agree to defend, indemnify and hold Ornua and (as applicable) Ornua employees, agents, suppliers and any of our third party information service providers or other representatives harmless against any and all claims demands, losses, expenses, damages and costs, including legal costs, however arising resulting from any violation or breach by you of these Terms of Use, any claims made by or liabilities to any third party resulting from any activities relating to your use or misuse of the Site or any allegation that any Materials that you make available or create through the Site infringe the intellectual property rights of any third party.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "SUSPENSION/TERMINATION/ FURTHER ACTION",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 38,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Failure to comply with these Terms of Use may result in our taking all or any of the following actions:",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "list-item",
+                        "text": "Immediate, temporary or permanent withdrawal of your right to use the Site.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "list-item",
+                        "text": "Immediate, temporary or permanent removal of any posting or Material uploaded by you to our Site.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "list-item",
+                        "text": "Legal action against you for reimbursement of all costs on an indemnity basis resulting from the breach.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "list-item",
+                        "text": "Disclosure of such information to law enforcement authorities as we reasonably feel is necessary.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Any provision of these Terms of Use that expressly or by implication is intended to come into or continue in force on or after termination of these Terms of Use shall survive expiration or termination of these Terms of Use.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "PRIVACY POLICY",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 14,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Ornua respects and protects the privacy of the individuals who access the Site and use its facilities and/or services. For full details of the manner in which Ornua and the Site uses cookies, the type of information we collect, how we use it and under what circumstances we disclose information, please read our Privacy Policy which is hereby incorporated into and forms part of these Terms of Use.",
+                        "spans":
+                        [
+                            {
+                                "start": 312,
+                                "end": 326,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "CHANGES IN TERMS OF USE",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "To the greatest extent permitted by applicable law, Ornua reserves the right, without notice to you, to change the content, services, presentation, performance, facilities and/or availability of any part of the Materials or the Site at our sole discretion, including these Terms of Use from time to time.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "JURISDICTION AND GOVERNING LAW",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 30,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "These Terms of Use are governed by the laws of United States of America and you submit to the exclusive jurisdiction of the US Courts.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "MISCELLANEOUS",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 13,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Any waiver of any provision of these Terms of Use must be in writing signed by Ornua to be valid. Any waiver of any provision hereunder shall not operate as a waiver of any other provision, or a continuing waiver of any provision in the future. If any court of competent jurisdiction finds any provision of these Terms of Use to be void or unenforceable for any reason, then such provision shall be ineffective to the extent of the court’s finding effecting the validity and enforceability of any remaining provision. These Terms of Use and the Privacy Policy represent the entire understanding and agreement between you and Ornua relating to use of the Site, its facilities and/or services and supersede any and all prior statements, understandings and agreements whether oral or written, and shall not be modified except in writing, signed by you and by Ornua.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "QUESTIONS OR COMMENTS?",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 22,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "If you wish to contact us to discuss any matter in relation to these Terms of Use, please feel free to contact us at Ornua Co-operative Limited, Grattan House, Lower Mount Street, Dublin 2 or by phone on 00 353 1 661 9599",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "PRIVACY POLICY",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Privacy Statement",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 17,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "This Privacy Policy describes how Ornua Co-operative Limited and its subsidiaries (collectively, “Ornua,” “we,” “us,” or “our”) collects, uses, shares, and safeguards personal information, including in relation to your use of any of our websites, official social media pages controlled by us and any other form of electronic communication which we use to communicate with you . This Privacy Policy also tells you about your rights and choices with respect to your personal information, and how you can reach us to get answers to your questions.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Types Of Information We Collect.",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 31,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "The following provides examples of the type of information that we may collect from you and how we use that information.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": " ",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "ContextTypes of DataPrimary Purpose for Collection\nand Use of DataClient InformationWe collect the name, and contact information, of our clients and business contacts and their employees with whom we may interact.We contact our clients and business contacts to communicate with them concerning normal business administration such as projects, services, billing, and to respond to your queries.Contact Information for MarketingWe collect the name, and contact information, including email address, postal address, and other information of individuals and clients that may be interested in our products.We have an interest in marketing our products.  In addition, you may agree to receive marketing communications from us.Cookies and first party trackingWe use cookies and clear GIFs. “Cookies” are small pieces of information that a website sends to a computer’s hard drive while a web site is viewed.We have an interest in making our website operate efficiently.Cookies and Third Party TrackingWe participate in behavior-based advertising, this means that a third party uses technology (e.g., a cookie) to collect information about your use of our website so that they can provide advertising about products and services tailored to your interests on our website, or on other websites.We have an interest in utilizing our website to participate in behavior-based advertising to provide you with information about products and services tailored to your interests.Demographic InformationWe collect personal information, such as your age or location.We use this information to understand our users and provide tailored services.Email InterconnectivityIf you receive email from us, we use certain tools to capture data related to when you open our message, click on any links or banners it contains and make purchases.We use this information to understand how you interact with our communications to you.EmploymentIf you apply for a job posting, or become an employee, we collect information necessary to process your application or to retain you as an employee.  This may include, among other things, your Social Security Number.  Providing this information is required for employment.We use information about current employees to perform our obligation of employment, or the anticipation of employment with you.  In some contexts, we are also required by law to collect information about our employees.  Finally, we have an interest in using your information to have efficient staffing and work force operations.Feedback/SupportIf you provide us feedback or contact us for support we will collect your name and e-mail address, as well as any other content that you send to us, in order to reply.We use this information to receive, and act upon, your feedback or issues.Mailing ListWhen you sign up for one of our mailing lists we collect your email address or postal address.We have an interest in sharing information about our products or services.Mobile DevicesWe collect information from your mobile device such as unique identifying information broadcast from your device when visiting our website or when visiting one of our premises.We use this information to identify unique visitors, and to understand how users interact with us on their mobile devices.Order PlacementWe collect whatever information is necessary to fulfill business orders such as your name, the company you work for, billing address, shipping address, e-mail address, phone number, banking details etc..We use your information to provide you/your business/your employer with products or services.Partner PromotionWe collect information that you provide as part of a co-branded promotion with another company.We use this information to fulfill our promotions.SurveysWhen you participate in a survey we collect information that you provide through the survey.  If the survey is provided by a third party service provider, the third party’s privacy policy applies to the collection, use, and disclosure of your information.We use this information to understand your opinions, and collect information relevant to our organization.Sweepstakes or contestsWhen you participate in a sweepstakes or contest we collect information about you which includes contact information to notify you if you are selected.We use your information to operate the sweepstakes.  In some contexts we are also required by law to collect information about those that enter into our sweepstakes.Website interactionsWe use technology to monitor how you interact with our website. This may include which links you click on, or information you type into a form hosted on our website.  This may also include information about your device or browser.We use this information to understand how you interact with our website to better improve it, and to understand your preferences.  We also use this information to detect and prevent fraud.Web logsWe collect information, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to a computer when the Internet is used), domain name, click-activity, referring website, and/or a date/time stamp for visitors.We use this information to monitor our networks and the visitors to our websites.  Among other things, it helps us understand which of our services is the most popular.",
+                        "spans":
+                        [
+                            {
+                                "start": 1087,
+                                "end": 1093,
+                                "type": "em"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "In addition to the information that we collect from you directly, we may also receive information about you from other sources, including third parties, business partners, our affiliates, or publicly available sources.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Use And Processing Of Information.",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 34,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "In addition to the purposes and uses described above, we use information in the following ways:",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "list-item",
+                        "text": "for internal record keeping purposes;",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "list-item",
+                        "text": "to respond to your questions and comments;",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "list-item",
+                        "text": "to provide you with information and updates in relation to our business, products and services;",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "list-item",
+                        "text": "to allow you participate in promotional and marketing activities and to refine our marketing strategies;",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "list-item",
+                        "text": "to permit you to participate in our social media activities and forums and other interactive features of a website;",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "list-item",
+                        "text": "for our business purposes, such as enhancing the presentation, content and administration of our websites, developing our business, products and services, engaging in market research, providing customer service etc.; and",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "list-item",
+                        "text": "to carry out our obligations arising from any contracts entered into between you and us.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": " ",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 1,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Sharing Of Information.",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "In addition to the specific situations discussed elsewhere in this policy, we disclose information in the following situations:",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "o-list-item",
+                        "text": "Affiliates and Acquisitions. We may share information with our corporate affiliates (g., parent company, sister companies, subsidiaries, joint ventures, or other companies under common control). If another company acquires, or plans to acquire, our company, business, or our assets, we will also share information with that company, including at the negotiation stage.",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 27,
+                                "type": "strong"
+                            },
+                            {
+                                "start": 85,
+                                "end": 86,
+                                "type": "em"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "o-list-item",
+                        "text": "Other Disclosures with Your Consent. We may ask if you would like us to share your information with other unaffiliated third parties who are not described elsewhere in this policy.",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 36,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "o-list-item",
+                        "text": "Other Disclosures without Your Consent. We may disclose information in response to subpoenas, warrants, or court orders, or in connection with any legal process, or to comply with relevant laws. We may also share your information in order to establish or exercise our rights, to defend against a legal claim, to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, safety of person or property, or a violation of our policies.",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 38,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "o-list-item",
+                        "text": "Public. Some of our websites may provide the opportunity to post comments, or reviews, in a public forum.  If you decide to submit information on these pages, that information may be publicly available.",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 6,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "o-list-item",
+                        "text": "Partner Promotion. We may offer contests, sweepstakes, or other promotions with third party partners. If you decide to enter a contest, sweepstakes, or promotion that is sponsored by a third party partner the information that you provide will be shared with us and with them.  Their use of your information is not governed by this privacy policy.",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 17,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "o-list-item",
+                        "text": "Service Providers. We share your information with service providers. Among other things service providers may help us to administer our website, conduct surveys, provide technical support, process payments, and assist in the fulfillment of orders.",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 17,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Your Choices.",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 13,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "You can make the following choices regarding your personal information:",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "o-list-item",
+                        "text": "Access To Your Personal Information. You may request access to your personal information by contacting us at the address described below. If required by law, upon request, we will grant you reasonable access to the personal information that we have about you. Note that California residents may be entitled to ask us for a notice describing what categories of personal information (if any) we share with third parties or affiliates for direct marketing.",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 35,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "o-list-item",
+                        "text": "Deletion Of Your Personal Information. You may request that we delete your personal information by contacting us at the address described below.  If required by law we will grant a request to delete information, but you should note that in many situations we must keep your personal information to comply with our legal obligations, resolve disputes, enforce our agreements, or for another one of our business purposes.",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 37,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "o-list-item",
+                        "text": "Online Tracking. We do not currently recognize automated browser signals regarding tracking mechanisms, which may include “Do Not Track” instructions.",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 17,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "o-list-item",
+                        "text": "Promotional Emails. If at any time we actively use mailing lists or send promotional emails, we will provide you with a mechanism to ensure you are able to opt-out and cease receiving messages from us within a reasonable time period of any request.",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 18,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Please address written requests and questions about your rights to dataprotection@ornua.com or call us at ‪+1 833 450 2783.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "If you submit a request relating to your data, we will – depending on your request – ask for information to prove your identity such as your name, your email address, or your social media account ID. We may verify your identity by phone call or email. We may also ask you to provide a signed declaration confirming your identity. Following a request, we will (as requested) use reasonable efforts to supply, correct or delete personal information about you in our files.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "In some circumstances, certain California residents may designate an authorized agent to submit requests to exercise certain privacy rights on your behalf.  We will require verification that you provided the authorized agent permission to make a request on your behalf.  You must provide us with a copy of the signed permission you have given to the authorized agent to submit the request on your behalf and verify your own identity directly with us.  If you are an authorized agent submitting a request on behalf of an individual you must attach a copy of the following information to the request:",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "o-list-item",
+                        "text": "A completed Authorized Agent Designation Form (which form can be requested by contacting dataprotection@ornua.com) indicating that you have authorization to act on the consumer’s behalf.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "o-list-item",
+                        "text": "If you are a business, proof that you are registered with the Secretary of State to conduct business in California.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "If we do not receive both pieces of information, the request will be denied.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "How We Protect Personal Information",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 35,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "No method of transmission over the Internet, or method of electronic storage, is fully secure. While we use reasonable efforts to protect your personal information from unauthorized access, use, or disclosure, we cannot guarantee the security of your personal information. In the event that we are required by law to inform you of a breach to your personal information we may notify you electronically, in writing, or by telephone, if permitted to do so by law.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Other Important Information ",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 28,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "The following additional information relates to our privacy practices:",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "list-item",
+                        "text": "Third Party Applications/Websites. We have no control over the privacy practices of websites or applications that we do not own.",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 33,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "list-item",
+                        "text": "We do not collect information from any person under the age of thirteen. Ornua’s websites are directed only to individuals who are permitted to share their personal information without parental consent.",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "list-item",
+                        "text": "Changes To This Privacy Policy. We may change our privacy policy and practices over time.  To the extent that our policy changes in a material way, the policy that was in place at the time that you submitted personal information to us will generally govern that information unless we receive your consent to the new privacy policy.  Our privacy policy includes an “effective” and “last updated” date. The effective date refers to the date that the current version took effect. The last updated date refers to the date that the current version was last substantively modified.",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 31,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "list-item",
+                        "text": "Information for California Residents. California law indicates that organizations should disclose whether certain categories of information are collected, “sold” or transferred for an organization’s “business purpose” (as those terms are defined under California law).  You can find a list of the categories of information that we collect and share here. Please note that because this list is comprehensive it may refer to types of information that we share about people other than yourself. If you are a California resident and would like more information concerning the categories of personal information (if any) we share with third parties or affiliates for those parties to use for direct marketing please submit a written request to us using the information in the “Contact Information” section below.  We do not discriminate against California residents who exercise any of their rights described in this Privacy Policy.",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 37,
+                                "type": "strong"
+                            },
+                            {
+                                "start": 349,
+                                "end": 353,
+                                "type": "strong"
+                            },
+                            {
+                                "start": 349,
+                                "end": 354,
+                                "type": "hyperlink",
+                                "data":
+                                {
+                                    "link_type": "Web",
+                                    "url": "https://prodcdn1.kerrygoldusa.com/wp-content/uploads/2020/11/California-Information-Sharing-Disclosure.pdf"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Contact Information.  If you have any questions, comments, or complaints concerning our privacy practices please contact us at the appropriate address below.  We will attempt to respond to your requests and to provide you with additional privacy-related information.",
+                        "spans":
+                        [
+                            {
+                                "start": 0,
+                                "end": 19,
+                                "type": "strong"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Email: dataprotection@ornua.com",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Mail: Ornua Co-operative Limited, Grattan House, Lower Mount Street, Dublin 2",
+                        "spans":
+                        []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Phone: 00 353 1 661 9599",
+                        "spans":
+                        []
+                    }
+                ]
+            }
+        }
+    ],
+    "version": "0427058",
+    "license": "All Rights Reserved"
+}

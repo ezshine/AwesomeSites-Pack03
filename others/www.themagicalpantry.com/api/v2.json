@@ -1,0 +1,136 @@
+{
+    "refs":
+    [
+        {
+            "id": "master",
+            "ref": "Y0XdehAAACcAj23B",
+            "label": "Master",
+            "isMasterRef": true
+        }
+    ],
+    "integrationFieldsRef": null,
+    "bookmarks":
+    {},
+    "types":
+    {
+        "recipe": "Recipe",
+        "legals": "Legals",
+        "diet": "Diet",
+        "global": "Global (translations)",
+        "story": "Story",
+        "sticker": "Sticker",
+        "settings": "Settings"
+    },
+    "languages":
+    [
+        {
+            "id": "en-us",
+            "name": "English - United States"
+        },
+        {
+            "id": "de-de",
+            "name": "German - Germany"
+        },
+        {
+            "id": "en-ie",
+            "name": "English - Ireland"
+        },
+        {
+            "id": "en-gb",
+            "name": "English - United Kingdom"
+        }
+    ],
+    "tags":
+    [
+        "translation DONE",
+        "ingredients needs to be translated"
+    ],
+    "forms":
+    {
+        "everything":
+        {
+            "method": "GET",
+            "enctype": "application/x-www-form-urlencoded",
+            "action": "https://kerrygold-kitchentable.cdn.prismic.io/api/v2/documents/search",
+            "fields":
+            {
+                "ref":
+                {
+                    "type": "String",
+                    "multiple": false
+                },
+                "q":
+                {
+                    "type": "String",
+                    "multiple": true
+                },
+                "lang":
+                {
+                    "type": "String",
+                    "multiple": false
+                },
+                "page":
+                {
+                    "type": "Integer",
+                    "multiple": false,
+                    "default": "1"
+                },
+                "pageSize":
+                {
+                    "type": "Integer",
+                    "multiple": false,
+                    "default": "20"
+                },
+                "after":
+                {
+                    "type": "String",
+                    "multiple": false
+                },
+                "fetch":
+                {
+                    "type": "String",
+                    "multiple": false
+                },
+                "fetchLinks":
+                {
+                    "type": "String",
+                    "multiple": false
+                },
+                "graphQuery":
+                {
+                    "type": "String",
+                    "multiple": false
+                },
+                "orderings":
+                {
+                    "type": "String",
+                    "multiple": false
+                },
+                "referer":
+                {
+                    "type": "String",
+                    "multiple": false
+                }
+            }
+        },
+        "tags":
+        {
+            "method": "GET",
+            "enctype": "application/x-www-form-urlencoded",
+            "action": "https://kerrygold-kitchentable.cdn.prismic.io/api/v2/tags",
+            "fields":
+            {}
+        }
+    },
+    "oauth_initiate": "https://kerrygold-kitchentable.prismic.io/auth",
+    "oauth_token": "https://kerrygold-kitchentable.prismic.io/auth/token",
+    "version": "0427058",
+    "experiments":
+    {
+        "draft":
+        [],
+        "running":
+        []
+    },
+    "license": "All Rights Reserved"
+}
