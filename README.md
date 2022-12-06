@@ -4,4 +4,3 @@
 
 - www.hape.io
 - cleo.show
-- www.themagicalpantry.com
