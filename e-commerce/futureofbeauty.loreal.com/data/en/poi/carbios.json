@@ -1,0 +1,154 @@
+{
+  "slug": "carbios",
+  "blocks": [
+    {
+      "type": "arrow",
+      "title": "The First Cosmetic Bottle Derived From Enzymatic Plastic Recycling",
+      "description": "<p>The first cosmetic bottle made from plastic entirely recycled using Carbios’ enzymatic technology.</p>",
+      "image": {
+        "url": "/images/01-carbios.png",
+        "alt": "Carbios"
+      }
+    },
+    {
+      "type": "alternance",
+      "position": "left",
+      "title": "How enzymatic plastic recycling works",
+      "description": "<p>The technology developed by Carbios, a pioneer in the development of biotech solutions for the recycling of PET* plastics, paves the way for the manufacture of new products made from 100% recycled materials produced using its enzymatic process.</p><p>It has the advantage of being suitable for all types of PET - clear, colored, opaque and multilayer - and making these plastics infinitely recyclable.</p><p>*PET: PET (polyethylene terephthalate) plastic is the most commonly recycled plastic.</p>",
+      "images": [
+        {
+          "url": "/images/02-carbios.png",
+          "alt": "Carbios"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "title": "Discover our first cosmetic bottle by Carbios",
+      "description": "Plans from the Caudry factory",
+      "video": "https://cdn.flowplayer.com/token:eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzYjRiMjdlYi04YzNhLTQzZDQtYmZlZC0zY2NkNjY2N2I4OWIiLCJuYmYiOjE2NjEzMzIwNTUsImlzcyI6Imh0dHBzOi8vd3d3LmZsb3dwbGF5ZXIuY29tIiwiZXhwIjoxNjYxNDE4NDU1LCJpYXQiOjE2NjEzMzIwNTV9.Akjh5PgdvWx-E8O-1th4LpONLZQ8zQ_v2bQ0e1V87sfDJom3cYcZtl-UsAw_OkWbIPVyFkjVHB8pz1dR-lF471A8r2RH_2q3VOk0n-5Mxr3jdFoRcTgQFOpiRSltDqowVMC2T3F0abykQc8aectXBIRuvqRCMjos8hGcRi8uF1aGCQnBTXUmz2tpu7CrmJqSq748afeSR3A8pC8WQ9d41xjaChyHOIlne8PZ7dpUiM_l_WEA8gWy7La7HwRw8fw-j7LZA2JDW3RYh3U0jFjecR_f_cJzQXjvU5x1YDzo3bnSz9Oue6V_vCoq1wcr86-Jf9fyQn0_Rd64c2X7uoGIhci6Ftl-ErBQ4Fv-Vv3fbe2KVI39zt6GYT6ZJBWGoZNFbbtuXp4VcUr9mi5JbG8IjqzPOP-yzhYr2Bdu5g5fVNt-dCpMHZIhuL05NQ0RmPZ-Tq9nhy0XUGYg9HONhZkuMBW1bQpNyYpaZrYxvH9zcw0MFP1CVZHcNCLZFP5lhC0k4ogxQgEMNJOdwNkOL8KTAqKbymCGghHyoukWmowgVnoHS7mIUwR0rKH6eD4qd1S5kxN8UvEV5PZsrITfFPsPhpiTcNEbtx91I7MjfeiRal2AP753SIQjvITQWSOEv8HuADuAaSPCsO3uPz39pze-owbJKtFIypvRde5AcXFx2ZQ/187d3787-e32b-47b7-bf79-799ce0358df7/v-3b4b27eb-8c3a-43d4-bfed-3ccd6667b89b.mp4"
+    },
+    {
+      "type": "alternance",
+      "position": "right",
+      "title": "How we achieve our objectives of recycling packaging",
+      "description": "<p>To achieve these objectives, we are working with a number of strategic partners, giving it access to the best technologies. As well as Carbios, we are collaborating with Albéa, the global leader in beauty packaging, with whom we developed the first cosmetic tube including FSC-certified carton in 2019, Purecycle, for the production of solvolysis-recycled polypropylene (PP), and LanzaTech and Total, with whom, in October 2020, we announced a world first: the production of a polyethylene (PE) cosmetic bottle made from recycled industrial carbon emissions.</p>",
+      "images": [
+        {
+          "url": "/images/03-carbios.png",
+          "alt": "Carbios"
+        },
+        {
+          "url": "/images/04-carbios.png",
+          "alt": "Carbios"
+        }
+      ]
+    },
+        {
+      "type": "cards",
+      "pretitle": "More about Future of Beauty",
+      "title": "How we create the beauty that moves the world",
+      "description": "For over a century we have been dedicated to one sole vocation: creating beauty. Our goal is to offer each and every person around the world the best of beauty in terms of quality, efficacy, safety, sincerity and responsibility to satisfy all beauty needs and desires in their infinite diversity.",
+      "cards": [
+        {
+          "image": {
+            "alt": "Beauty Tech",
+            "url": "/images/card_BEAUTYTECH.jpg"
+          },
+          "title": "Beauty tech",
+          "description": "We invent the future of beauty",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/beauty-tech/"
+        },
+        {
+          "image": {
+            "alt": "Green Science",
+            "url": "/images/card_GREENSCIENCES.jpg"
+          },
+          "title": "Green Science",
+          "description": "We believe nature is the future of beauty",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/green-sciences/"
+        },
+        {
+          "image": {
+            "alt": "Modiface",
+            "url": "/images/card_modiface.jpg"
+          },
+          "title": "Modiface",
+          "description": "Discovering ModiFace",
+          "link": "https://www.loreal.com/en/beauty-science-and-technology/beauty-tech/discovering-modiface/"
+        },
+        {
+          "image": {
+            "alt": "Research",
+            "url": "/images/card_sciences.jpg"
+          },
+          "title": "Research",
+          "description": "Innovating through science",
+          "link": "https://www.loreal.com/en/beauty-science-and-technology/beauty-research-and-innovation/innovating-through-science/"
+        },
+        {
+          "image": {
+            "alt": "Sourcing",
+            "url": "/images/card_solso.jpg"
+          },
+          "title": "Sourcing",
+          "description": "About Solidarity Sourcing",
+          "link": "https://www.loreal.com/en/articles/commitments/about-solidarity-sourcing/"
+        },
+        {
+          "image": {
+            "alt": "Diversity",
+            "url": "/images/card_diversity.jpg"
+          },
+          "title": "Diversity",
+          "description": "We strive to be as diverse as the people we serve",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/diversity-inclusion/"
+        },
+        {
+          "image": {
+            "alt": "Women Cause",
+            "url": "/images/card_women.jpg"
+          },
+          "title": "Women Cause",
+          "description": "We Stand for All Women Around the World",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/women-cause/"
+        },
+        {
+          "image": {
+            "alt": "Animal testing",
+            "url": "/images/card_animal.jpg"
+          },
+          "title": "Animal testing",
+          "description": "For Beauty With No Animal Testing",
+          "link": "https://www.loreal.com/en/commitments-and-responsibilities/for-the-planet/for-beauty-with-no-animal-testing/"
+        },
+        {
+          "image": {
+            "alt": "Plastic",
+            "url": "/images/card_plastic.jpg"
+          },
+          "title": "Plastic",
+          "description": "Reducing Virgin Plastic Packaging",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/reducing-plastic-packaging/"
+        },
+        {
+          "image": {
+            "alt": "Climate",
+            "url": "/images/card-climate.jpg"
+          },
+          "title": "Climate",
+          "description": "Fighting Climate Change",
+          "link": "https://www.loreal.com/en/commitments-and-responsibilities/for-the-planet/fighting-climate-change/"
+        },{
+          "image": {
+            "alt": "Biodiversity",
+            "url": "/images/card_biodiversity.jpg"
+          },
+          "title": "Biodiversity",
+          "description": "We act to preserve biodiversity",
+          "link": "https://www.loreal.com/en/articles/commitments/fund-for-nature-regeneration/"
+        }
+      ]
+    }
+  ]
+}

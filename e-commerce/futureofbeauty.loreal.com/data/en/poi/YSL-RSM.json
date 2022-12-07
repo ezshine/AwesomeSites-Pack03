@@ -1,0 +1,154 @@
+{
+  "slug": "YSL-RSM",
+  "blocks": [
+    {
+      "type": "arrow",
+      "title": "YSL Rouge Sur Mesure",
+      "description": "<p>The iconic lip colors of Yves Saint-Laurent Beauté (YSL) are entering the Beauty Tech era with Perso, a new device from L’Oréal. Find out how artificial intelligence and the Internet of Things are helping to create thousands of personalized bespoke shades.</p>",
+      "image": {
+        "url": "/images/rsm-01.png",
+        "alt": "Rouge sur Mesure"
+      }
+    },
+    {
+      "type": "alternance",
+      "position": "left",
+      "title": "Create at-home personalized lipstick shades of the YSL Velvet Cream Matte Finish",
+      "description": "<p>Rouge Sur Mesure takes the best of Beauty Tech and harnesses it to deliver personalized beauty. With this smart device, home consumers can create their very own versions of the iconic YSL’s iconic Velvet Cream Matte Finish lipstick.</p><p>Created by our L’Oréal Technology Incubator, Rouge Sur Mesure features color cartridge sets from YSL’s iconic universes of red, nude, orange, or fuchsia. With this innovation, home users can create thousands of bespoke lipstick shades with a single touch. The lid of the device functions as a compact luxury case, so you can take your personalized product along with you when you go out. Yves Saint Laurent Rouge Sur Mesure Powered by Perso is available worldwide this year.</p>",
+      "images": [
+        {
+          "url": "/images/rsm-02.png",
+          "alt": "Rouge sur Mesure"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "title": "Discover the device",
+      "description": "How the device works",
+      "video": "https://cdn.flowplayer.com/token:eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI0Y2MzNGUyZi01MmM1LTQzMjMtOWJiMy01MzBjMmU0NmZjOGEiLCJuYmYiOjE2NjEzMzYxODUsImlzcyI6Imh0dHBzOi8vd3d3LmZsb3dwbGF5ZXIuY29tIiwiZXhwIjoxNjYxNDIyNTg1LCJpYXQiOjE2NjEzMzYxODV9.M3rRE-xU90axGj-JTFqZRELMEnfGs6-9I9gKO_Vv0E9difsnuHGSgl7DxXOZB0lDF7Conlv74yZBcfymWUKSeasHN3sQED_4N8jJaz7FloQetBY5JF5Z9va6JhsnGHzh4E28sOJyaaX7mZriibjXBtVWcfd4FfzS_roq1BEXBmLD88qbdA4TWWH2rzHsluf272qvnCWa1VNwIDrpuhqlqRpfjZRClUgNjzQ8rNE-FO2b8g5jrDZSeGq4WJOLu3mJFhIIpSpfPcXySOd8u5MwKSQKqUWdpvMEodYA3rUJF7w5sHx6jQTlu-GHP9RXuJh0eHalL_hmjlMoV5czSpk7vPNrPyX3pcW3aEIjjEneBwLilS4frVJ7BD_783FxYakrhwRQhnFeZzLc1p72RLla4VKyo6lwWNTX1uz23zqbfkZisiPpD9TytfcHhsEnlAuorpqGMe5FK3GOBegHNKoT9hG7Kyi3uhKrP8WFOsOs3JAyGB8GcP2ZJq7nMdBEWgTY0ab9mFbLJ57ulbjCXywypduBuXDEJH7E2OwhAoWO6pDY4hOXHvPYpnVG7EoYw7QtiNG3BSGd2bAvk6VDR47MiEkdx6bwO2FoXszmpJF_52zDaBMLLBUF3v7jMQEBmLIZ7Pvp6ouIlge8F-0CEZSTHelZ9IlW5mzQPh_DcPFdrGo/187d3787-e32b-47b7-bf79-799ce0358df7/v-4cc34e2f-52c5-4323-9bb3-530c2e46fc8a.mp4"
+    },
+    {
+      "type": "alternance",
+      "position": "right",
+      "title": "Using artificial intelligence to offer ultra-personalized beauty",
+      "description": "<p>Thanks to an app that can be installed on a phone or tablet, and by tapping into the endless potential of AI, users can explore and try on looks. Three ways to create the desired shade:</p><h3>Shade wheel:</h3><p>A circle of color, offering thousands of possibilities. Try on shades virtually and convert them into a real lipstick.</p><h3>Shade match:</h3><p>Pick up any real-life color through your camera to transform it into a personal lip shade.</p><h3>Shade stylist:</h3><p>Scan your outfit and get a recommended lip shade to match or clash your look.</p><p>Yves Saint Laurent Rouge Sur Mesure Powered by Perso is an innovation that marks the start of a new era in which beauty is perfectly tailored to each individual’s expectations, complexion, or outfit.</p><p>Moreover, through the app, at-home users can access this beauty whilst at the same time benefitting from the expertise and advice that are the hallmarks of the YSL Beauty brand.</p>",
+      "images": [
+        {
+          "url": "/images/rsm-03.png",
+          "alt": "Rouge sur Mesure app"
+        },
+        {
+          "url": "/images/rsm-04.png",
+          "alt": "Rouge sur Mesure"
+        }
+      ]
+    },
+     {
+      "type": "cards",
+      "pretitle": "More about Future of Beauty",
+      "title": "How we create the beauty that moves the world",
+      "description": "For over a century we have been dedicated to one sole vocation: creating beauty. Our goal is to offer each and every person around the world the best of beauty in terms of quality, efficacy, safety, sincerity and responsibility to satisfy all beauty needs and desires in their infinite diversity.",
+      "cards": [
+        {
+          "image": {
+            "alt": "Beauty Tech",
+            "url": "/images/card_BEAUTYTECH.jpg"
+          },
+          "title": "Beauty tech",
+          "description": "We invent the future of beauty",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/beauty-tech/"
+        },
+        {
+          "image": {
+            "alt": "Green Science",
+            "url": "/images/card_GREENSCIENCES.jpg"
+          },
+          "title": "Green Science",
+          "description": "We believe nature is the future of beauty",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/green-sciences/"
+        },
+        {
+          "image": {
+            "alt": "Modiface",
+            "url": "/images/card_modiface.jpg"
+          },
+          "title": "Modiface",
+          "description": "Discovering ModiFace",
+          "link": "https://www.loreal.com/en/beauty-science-and-technology/beauty-tech/discovering-modiface/"
+        },
+        {
+          "image": {
+            "alt": "Research",
+            "url": "/images/card_sciences.jpg"
+          },
+          "title": "Research",
+          "description": "Innovating through science",
+          "link": "https://www.loreal.com/en/beauty-science-and-technology/beauty-research-and-innovation/innovating-through-science/"
+        },
+        {
+          "image": {
+            "alt": "Sourcing",
+            "url": "/images/card_solso.jpg"
+          },
+          "title": "Sourcing",
+          "description": "About Solidarity Sourcing",
+          "link": "https://www.loreal.com/en/articles/commitments/about-solidarity-sourcing/"
+        },
+        {
+          "image": {
+            "alt": "Diversity",
+            "url": "/images/card_diversity.jpg"
+          },
+          "title": "Diversity",
+          "description": "We strive to be as diverse as the people we serve",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/diversity-inclusion/"
+        },
+        {
+          "image": {
+            "alt": "Women Cause",
+            "url": "/images/card_women.jpg"
+          },
+          "title": "Women Cause",
+          "description": "We Stand for All Women Around the World",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/women-cause/"
+        },
+        {
+          "image": {
+            "alt": "Animal testing",
+            "url": "/images/card_animal.jpg"
+          },
+          "title": "Animal testing",
+          "description": "For Beauty With No Animal Testing",
+          "link": "https://www.loreal.com/en/commitments-and-responsibilities/for-the-planet/for-beauty-with-no-animal-testing/"
+        },
+        {
+          "image": {
+            "alt": "Plastic",
+            "url": "/images/card_plastic.jpg"
+          },
+          "title": "Plastic",
+          "description": "Reducing Virgin Plastic Packaging",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/reducing-plastic-packaging/"
+        },
+        {
+          "image": {
+            "alt": "Climate",
+            "url": "/images/card-climate.jpg"
+          },
+          "title": "Climate",
+          "description": "Fighting Climate Change",
+          "link": "https://www.loreal.com/en/commitments-and-responsibilities/for-the-planet/fighting-climate-change/"
+        },{
+          "image": {
+            "alt": "Biodiversity",
+            "url": "/images/card_biodiversity.jpg"
+          },
+          "title": "Biodiversity",
+          "description": "We act to preserve biodiversity",
+          "link": "https://www.loreal.com/en/articles/commitments/fund-for-nature-regeneration/"
+        }
+      ]
+    }
+  ]
+}

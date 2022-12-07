@@ -1,0 +1,154 @@
+{
+  "slug": "water-saver",
+  "blocks": [
+    {
+      "type": "arrow",
+      "title": "Introducing Water Saver",
+      "description": "<p>To provide an environmentally responsible and unique salon and at-home experiences, L’Oréal and Gjosa have teamed up to create Water Saver, a new technology that makes sustainable water use available to everyone.</p>",
+      "image": {
+        "url": "/images/watersaver-01.png",
+        "alt": "Water Saver"
+      }
+    },
+    {
+      "type": "alternance",
+      "position": "left",
+      "title": "Use water in a sustainable way and preserve this vital and precious resource",
+      "description": "<p>L’Oréal is committed to reducing the water consumption of its activities but also to helping its partners to do so. Sustainable Water Saver haircare technology, which was unveiled at the CES 2021 tech show is part of the answer: it proves what Beauty Tech can do for the environment, and especially for sustainable water use.</p><p>L'Oréal relentlessly drives innovation to provide consumers and professionals alike with products and services that are better for them and for the planet, considerably reducing their environmental impacts at different stages of their lifecycles. Water saver is an integral part of L’Oréal’s sustainable journey and one of the key elements of “Haistylists for the Future” program. This program aims to ensure that salons manage water and waste sustainability, reduce energy consumption, and use recycled and recyclable product packaging.</p>",
+      "images": [
+        {
+          "url": "/images/watersaver-02.png",
+          "alt": "Water Saver"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "title": "L'Oréal Salon: Water Saver Innovation",
+      "description": "Discover the experience",
+      "video": "https://cdn.flowplayer.com/token:eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI3ZTcxYWU2MS0wNmUzLTQyOTQtOTI5My1lMGVlNmQ2YzYwOTQiLCJuYmYiOjE2NjEyNjA3NzksImlzcyI6Imh0dHBzOi8vd3d3LmZsb3dwbGF5ZXIuY29tIiwiZXhwIjoxNjYxMzQ3MTc5LCJpYXQiOjE2NjEyNjA3Nzl9.Y0Edn35ZO1C885BRLhiDRPzefkE2mKuAYmeRtPqi_xvduPY_Go3doXpvPWqfzGV1KwyLzKqmyPWmz1zLMXtQch41yZJ2f2BpHO3g3_U98ZRYncbJX_RXsMe2Ixz6d1Qey8cS_kMP6J-YkDzy78I27blP6qOYVcyEPGsKEfz0RxM7ZaUfEjq-KoDe1s58owOwNzTAvYrXKPDS4BWUkphDHhh_Ks5s6C2PBULMU0d-y7J9fJT-_U84PZRYeQiFkXuiaJ5pGaTb9iEOJF5FoMzZYaHRU4CM6FpVfkC1YH-RlnOkzMm5mITAnozycMAIYXqz6iOJ9VIjtJKWLEc1S9Kl7VRWTI3L5rbSnaPnCk964faVcC-KS_SzSgA9wQDeJhc40ovHi3uBjX4pSdws4Uk4-Rg88XhIYn2GT9Uh5H6lEdiCwxdJexTiC99lm5dmEacXZy_wFEhxYPvgkV2MSMjV4_XfSaBwdHpXuH6bBvDrWcIpwiyj0kJQpvj7AuGsiFnroGbrJvIhL34U-KeSO9jIxzr83wbFVb1X5cI3C-AGzSr9jybubcxpb6L4RB_SUut-SGdP_flHW6XvB7Dqqhk0WY1-SkUXavSjA4IPsv-UTwej4NIElRMjoo_dGpTWHnWJG-vACQsIy-Hy2nazcem_g4xW2LxSYcDmJjZakGTdObQ/187d3787-e32b-47b7-bf79-799ce0358df7/v-7e71ae61-06e3-4294-9293-e0ee6d6c6094.mp4"
+    },
+    {
+      "type": "alternance",
+      "position": "right",
+      "title": "Tech to reduce water consumption",
+      "description": "<p>Water Saver combines a micronization technology with a showerhead cartridge containing haircare products designed by Kérastase and L’Oréal Professionnel to cut water usage by 60%. To take the salon experience even further, we combined this technology with the professional hair expertise of Kérastase and L’Oréal Professionnel.</p><p>Thanks to the patented Cloud Cleansing approach, micronized haircare formulas specially designed for Water Saver by Kérastase and L’Oréal Professionnel are infused directly in the water stream, promoting better product distribution and absorption, as well as improved efficiency.</p><p>The result is a showerhead that divides the flow of water to create 10 times smaller droplets. Then, they are accelerated for faster and more effective rinsing. Water Saver only uses 2,4 liters of water per minute compared to the 7 liters consumed by a standard showerhead, cutting water use by 60% compared to standard rinsing while simultaneously improving the customer experience.</p><p>The system also features a data dashboard that allows salon professionals to monitor their water and energy consumption and savings.</p>",
+      "images": [
+        {
+          "url": "/images/watersaver-03.png",
+          "alt": "Water Saver"
+        },
+        {
+          "url": "/images/watersaver-04.png",
+          "alt": "Water Saver"
+        }
+      ]
+    },
+        {
+      "type": "cards",
+      "pretitle": "More about Future of Beauty",
+      "title": "How we create the beauty that moves the world",
+      "description": "For over a century we have been dedicated to one sole vocation: creating beauty. Our goal is to offer each and every person around the world the best of beauty in terms of quality, efficacy, safety, sincerity and responsibility to satisfy all beauty needs and desires in their infinite diversity.",
+      "cards": [
+        {
+          "image": {
+            "alt": "Beauty Tech",
+            "url": "/images/card_BEAUTYTECH.jpg"
+          },
+          "title": "Beauty tech",
+          "description": "We invent the future of beauty",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/beauty-tech/"
+        },
+        {
+          "image": {
+            "alt": "Green Science",
+            "url": "/images/card_GREENSCIENCES.jpg"
+          },
+          "title": "Green Science",
+          "description": "We believe nature is the future of beauty",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/green-sciences/"
+        },
+        {
+          "image": {
+            "alt": "Modiface",
+            "url": "/images/card_modiface.jpg"
+          },
+          "title": "Modiface",
+          "description": "Discovering ModiFace",
+          "link": "https://www.loreal.com/en/beauty-science-and-technology/beauty-tech/discovering-modiface/"
+        },
+        {
+          "image": {
+            "alt": "Research",
+            "url": "/images/card_sciences.jpg"
+          },
+          "title": "Research",
+          "description": "Innovating through science",
+          "link": "https://www.loreal.com/en/beauty-science-and-technology/beauty-research-and-innovation/innovating-through-science/"
+        },
+        {
+          "image": {
+            "alt": "Sourcing",
+            "url": "/images/card_solso.jpg"
+          },
+          "title": "Sourcing",
+          "description": "About Solidarity Sourcing",
+          "link": "https://www.loreal.com/en/articles/commitments/about-solidarity-sourcing/"
+        },
+        {
+          "image": {
+            "alt": "Diversity",
+            "url": "/images/card_diversity.jpg"
+          },
+          "title": "Diversity",
+          "description": "We strive to be as diverse as the people we serve",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/diversity-inclusion/"
+        },
+        {
+          "image": {
+            "alt": "Women Cause",
+            "url": "/images/card_women.jpg"
+          },
+          "title": "Women Cause",
+          "description": "We Stand for All Women Around the World",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/women-cause/"
+        },
+        {
+          "image": {
+            "alt": "Animal testing",
+            "url": "/images/card_animal.jpg"
+          },
+          "title": "Animal testing",
+          "description": "For Beauty With No Animal Testing",
+          "link": "https://www.loreal.com/en/commitments-and-responsibilities/for-the-planet/for-beauty-with-no-animal-testing/"
+        },
+        {
+          "image": {
+            "alt": "Plastic",
+            "url": "/images/card_plastic.jpg"
+          },
+          "title": "Plastic",
+          "description": "Reducing Virgin Plastic Packaging",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/reducing-plastic-packaging/"
+        },
+        {
+          "image": {
+            "alt": "Climate",
+            "url": "/images/card-climate.jpg"
+          },
+          "title": "Climate",
+          "description": "Fighting Climate Change",
+          "link": "https://www.loreal.com/en/commitments-and-responsibilities/for-the-planet/fighting-climate-change/"
+        },{
+          "image": {
+            "alt": "Biodiversity",
+            "url": "/images/card_biodiversity.jpg"
+          },
+          "title": "Biodiversity",
+          "description": "We act to preserve biodiversity",
+          "link": "https://www.loreal.com/en/articles/commitments/fund-for-nature-regeneration/"
+        }
+      ]
+    }
+  ]
+}

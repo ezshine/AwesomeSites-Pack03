@@ -1,0 +1,143 @@
+{
+  "slug": "shade-finder",
+  "blocks": [
+    {
+      "type": "arrow",
+      "title": "Technology based on artificial intelligence",
+      "description": "<p>Shade Finder by Lancôme is an advanced technology based on artificial intelligence. It is able to recommend a foundation shade ideally suited to meet your needs, directly at the point of sale</p>.",
+      "image": {
+        "url": "/images/shadefinder-01.png",
+        "alt": "Shade Finder"
+      }
+    },
+    {
+      "type": "video",
+      "title": "Shade Finder Testimonial",
+      "description": "Alaïs: How I Find The Right Foundation for my Skin with My Shade Finder by Lancôme",
+      "video": "https://cdn.flowplayer.com/token:eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI0ZDg2Y2IxNy1kNDc2LTRjYmYtOGEzOS1hMGVkNjRmMmUzMjUiLCJuYmYiOjE2NjEzNDA5NjAsImlzcyI6Imh0dHBzOi8vd3d3LmZsb3dwbGF5ZXIuY29tIiwiZXhwIjoxNjYxNDI3MzYwLCJpYXQiOjE2NjEzNDA5NjB9.ggsdyN3y64uuOEkO1xMjWQI3Hlp-E5sQ-Pxa7k0xfjaps3VMWBMTMxhzTRzarH_w1wNb5t28tnPwf2fhiJgsr5NDP9EQZPScWPZ_8vjKZbq9eWJvgIYD4RKUSunp8MC4UDrlzi1GSiXLo5LNmBZdHHG7SQge-KrhwDKCjcsn91W78UpGC9ICgpKcWiIU7kYzWN3B1WHQbe7iLXKa6uyW9o2co9lucY95NgY5W_GdNbfi1uEVaOnQPq5tX0r6oxCcPphIt4NhQuq1il48nuvYMtOu1r_Z2NI2BRPf1GZ1tnU2PnQQJ1EQ_Urvh1guoiRihtOkuEWpV64Qj2Q9tFgWxM8I-zex71zLAxur_m35IWhkkCZ-8Lo9QPv4AsbzqEi9DTJTNr0PC5w6Y5Ra9A7R3Bf6WQix2qh7KXYY3_pVDkoV2KfZgBTOuWxZW-ES7JnO7WfZWBOlVEXA8EGcl13LIaciVxoDUZZ4KuRbHBHl1Vw_-NYdCczDW6QzaJyWc8loaWa7NYxIrmx0BkjyaTqVwauX1ZyyLaiN0rzUriGFBiCKN4xxEsH6pZY3ZRS7DgAffRc5NYg6eTU28awuuXwoVVXO-Ad_SFJznzLcO2dhZT-ub3c6mdkfEdyQfgx59Wpe74zG4TZGH7zYeQFW9WfLH1oEHnZGkk__5FkIFcEja0A/187d3787-e32b-47b7-bf79-799ce0358df7/v-4d86cb17-d476-4cbf-8a39-a0ed64f2e325.mp4"
+    },
+    {
+      "type": "alternance",
+      "position": "right",
+      "title": "A three-step experience",
+      "description": "<h3>STEP 1</h3><p>Our Beauty Advisor measures your skin tone on three parts of your face.</p><h3>STEP 2</h3><p>You can see your results and the color selection tailored to your skin tone on an iPad.</p><h3>STEP 3</h3><p>You can test three shades of Lancôme's foundation collections.</p>",
+      "images": [
+        {
+          "url": "/images/shadefinder-03.png",
+          "alt": "Shade Finder"
+        },
+        {
+          "url": "/images/shadefinder-04.png",
+          "alt": "Shade Finder"
+        }
+      ]
+    },
+        {
+      "type": "cards",
+      "pretitle": "More about Future of Beauty",
+      "title": "How we create the beauty that moves the world",
+      "description": "For over a century we have been dedicated to one sole vocation: creating beauty. Our goal is to offer each and every person around the world the best of beauty in terms of quality, efficacy, safety, sincerity and responsibility to satisfy all beauty needs and desires in their infinite diversity.",
+      "cards": [
+        {
+          "image": {
+            "alt": "Beauty Tech",
+            "url": "/images/card_BEAUTYTECH.jpg"
+          },
+          "title": "Beauty tech",
+          "description": "We invent the future of beauty",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/beauty-tech/"
+        },
+        {
+          "image": {
+            "alt": "Green Science",
+            "url": "/images/card_GREENSCIENCES.jpg"
+          },
+          "title": "Green Science",
+          "description": "We believe nature is the future of beauty",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/green-sciences/"
+        },
+        {
+          "image": {
+            "alt": "Modiface",
+            "url": "/images/card_modiface.jpg"
+          },
+          "title": "Modiface",
+          "description": "Discovering ModiFace",
+          "link": "https://www.loreal.com/en/beauty-science-and-technology/beauty-tech/discovering-modiface/"
+        },
+        {
+          "image": {
+            "alt": "Research",
+            "url": "/images/card_sciences.jpg"
+          },
+          "title": "Research",
+          "description": "Innovating through science",
+          "link": "https://www.loreal.com/en/beauty-science-and-technology/beauty-research-and-innovation/innovating-through-science/"
+        },
+        {
+          "image": {
+            "alt": "Sourcing",
+            "url": "/images/card_solso.jpg"
+          },
+          "title": "Sourcing",
+          "description": "About Solidarity Sourcing",
+          "link": "https://www.loreal.com/en/articles/commitments/about-solidarity-sourcing/"
+        },
+        {
+          "image": {
+            "alt": "Diversity",
+            "url": "/images/card_diversity.jpg"
+          },
+          "title": "Diversity",
+          "description": "We strive to be as diverse as the people we serve",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/diversity-inclusion/"
+        },
+        {
+          "image": {
+            "alt": "Women Cause",
+            "url": "/images/card_women.jpg"
+          },
+          "title": "Women Cause",
+          "description": "We Stand for All Women Around the World",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/women-cause/"
+        },
+        {
+          "image": {
+            "alt": "Animal testing",
+            "url": "/images/card_animal.jpg"
+          },
+          "title": "Animal testing",
+          "description": "For Beauty With No Animal Testing",
+          "link": "https://www.loreal.com/en/commitments-and-responsibilities/for-the-planet/for-beauty-with-no-animal-testing/"
+        },
+        {
+          "image": {
+            "alt": "Plastic",
+            "url": "/images/card_plastic.jpg"
+          },
+          "title": "Plastic",
+          "description": "Reducing Virgin Plastic Packaging",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/reducing-plastic-packaging/"
+        },
+        {
+          "image": {
+            "alt": "Climate",
+            "url": "/images/card-climate.jpg"
+          },
+          "title": "Climate",
+          "description": "Fighting Climate Change",
+          "link": "https://www.loreal.com/en/commitments-and-responsibilities/for-the-planet/fighting-climate-change/"
+        },{
+          "image": {
+            "alt": "Biodiversity",
+            "url": "/images/card_biodiversity.jpg"
+          },
+          "title": "Biodiversity",
+          "description": "We act to preserve biodiversity",
+          "link": "https://www.loreal.com/en/articles/commitments/fund-for-nature-regeneration/"
+        }
+      ]
+    }
+  ]
+}
+

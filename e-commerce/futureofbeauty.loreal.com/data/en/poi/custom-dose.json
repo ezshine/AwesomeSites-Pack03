@@ -1,0 +1,148 @@
+{
+  "slug": "custom-dose",
+  "blocks": [
+    {
+      "type": "arrow",
+      "title": "Discover SkinSkeuticals Custom D.O.S.E",
+      "description": "<p>Custom D.O.S.E by SkinCeuticals is the first ever automated system that delivers highly concentrated combinations of SkinCeuticals’ most potent ingredients on-the-spot. Addressing the concerns of over 250 skin types, the D.O.S.E technology is first-of-its-kind because it’s able to mix active ingredients into a single serum at the point of service specifically to target the appearance of skin aging issues, like wrinkles, fine lines, and discoloration.</p>",
+      "image": {
+        "url": "/images/01-customdose.png",
+        "alt": "Custom Dose"
+      }
+    },
+    {
+      "type": "video",
+      "title": "Custom D.O.S.E",
+      "description": "Discover the technology",
+      "video": "https://cdn.flowplayer.com/token:eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI4ZDFiYjc0Yi00NmU1LTQ2MjUtYjhlNy0zZWYwMDU1ZDJlMjIiLCJuYmYiOjE2NjEzMzU3NzQsImlzcyI6Imh0dHBzOi8vd3d3LmZsb3dwbGF5ZXIuY29tIiwiZXhwIjoxNjYxNDIyMTc0LCJpYXQiOjE2NjEzMzU3NzR9.pGupfJbZuJIAexTQ9ONHOm6rJ37gLCL5MMGbWj-_v1WOSlf5_ykbUddh1l6bl3Deg4umtd2CiYQPgBsCWcEGnovsnPVuVXGiRLgaGnx3544YssNsg6Wx17E6XlIscJUZTJ-GNjTQv-Jj5VAMvXcubUoEsj71bMjpBSzlBbAuJr28fP4E8F2oCE_8_R8QXMF2EDdtXBVNazIc0cXOnt8s_C7sSiIqdnN5CJogpTgCamCM56ohZY0LQolbxSiz3WckMQqT3HWZepe090JzZprz7p8U2_e7PA8yTx3uEz_MWu37oIMsWDf5L1ioHdBj3fTCKJXCYXuWFmeB8cQfZBy1eY68XFRB5JgrDvrx37xZy0yWQFV5GxglsKPUjtlkabbWbWQHWvaWgzeeShu4Jf2l_Mvrv6msiwQHZsv-WmVJq7iRuwdrMariBxk4E_c5LqZhL6wZE54Gf1gala5Rdnt7ZnjyonabwbWV390T_mH36rovPk0aQ8_JWO10yqwX1GSK5-plNvU9P4G6gOwDW9CsIMHJWL3ZJ35N3Bm-6aYi5Ewor107wozLd2kRZVLHaGf9S7mzS7L3HFlI6REGTz98SQrrqFjUmteppkVYAKyg85_3n754ZZeqMWJs-Ct9iOE9LIPfp-yPf73XkB2TfOmDk07PsuaedhdAhNHLueEK5AE/187d3787-e32b-47b7-bf79-799ce0358df7/v-8d1bb74b-46e5-4625-b8e7-3ef0055d2e22.mp4"
+    },
+    {
+  "slug": "custom-dose",
+  "blocks": [
+    {
+      "type": "arrow",
+      "title": "Discover SkinSkeuticals Custom D.O.S.E",
+      "description": "<p>Custom D.O.S.E by SkinCeuticals is the first ever automated system that delivers highly concentrated combinations of SkinCeuticals’ most potent ingredients on-the-spot. Addressing the concerns of over 250 skin types, the D.O.S.E technology is first-of-its-kind because it’s able to mix active ingredients into a single serum at the point of service specifically to target the appearance of skin aging issues, like wrinkles, fine lines, and discoloration.</p>",
+      "image": {
+        "url": "/images/01-customdose.png",
+        "alt": "Custom Dose"
+      }
+    },
+    {
+      "type": "video",
+      "title": "Custom D.O.S.E",
+      "description": "Discover the technology",
+      "video": "https://cdn.flowplayer.com/token:eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI4ZDFiYjc0Yi00NmU1LTQ2MjUtYjhlNy0zZWYwMDU1ZDJlMjIiLCJuYmYiOjE2NjEzMzU3NzQsImlzcyI6Imh0dHBzOi8vd3d3LmZsb3dwbGF5ZXIuY29tIiwiZXhwIjoxNjYxNDIyMTc0LCJpYXQiOjE2NjEzMzU3NzR9.pGupfJbZuJIAexTQ9ONHOm6rJ37gLCL5MMGbWj-_v1WOSlf5_ykbUddh1l6bl3Deg4umtd2CiYQPgBsCWcEGnovsnPVuVXGiRLgaGnx3544YssNsg6Wx17E6XlIscJUZTJ-GNjTQv-Jj5VAMvXcubUoEsj71bMjpBSzlBbAuJr28fP4E8F2oCE_8_R8QXMF2EDdtXBVNazIc0cXOnt8s_C7sSiIqdnN5CJogpTgCamCM56ohZY0LQolbxSiz3WckMQqT3HWZepe090JzZprz7p8U2_e7PA8yTx3uEz_MWu37oIMsWDf5L1ioHdBj3fTCKJXCYXuWFmeB8cQfZBy1eY68XFRB5JgrDvrx37xZy0yWQFV5GxglsKPUjtlkabbWbWQHWvaWgzeeShu4Jf2l_Mvrv6msiwQHZsv-WmVJq7iRuwdrMariBxk4E_c5LqZhL6wZE54Gf1gala5Rdnt7ZnjyonabwbWV390T_mH36rovPk0aQ8_JWO10yqwX1GSK5-plNvU9P4G6gOwDW9CsIMHJWL3ZJ35N3Bm-6aYi5Ewor107wozLd2kRZVLHaGf9S7mzS7L3HFlI6REGTz98SQrrqFjUmteppkVYAKyg85_3n754ZZeqMWJs-Ct9iOE9LIPfp-yPf73XkB2TfOmDk07PsuaedhdAhNHLueEK5AE/187d3787-e32b-47b7-bf79-799ce0358df7/v-8d1bb74b-46e5-4625-b8e7-3ef0055d2e22.mp4"
+    }
+  ]
+},
+    {
+      "type": "cards",
+      "pretitle": "More about Future of Beauty",
+      "title": "How we create the beauty that moves the world",
+      "description": "For over a century we have been dedicated to one sole vocation: creating beauty. Our goal is to offer each and every person around the world the best of beauty in terms of quality, efficacy, safety, sincerity and responsibility to satisfy all beauty needs and desires in their infinite diversity.",
+      "cards": [
+        {
+          "image": {
+            "alt": "Beauty Tech",
+            "url": "/images/card_BEAUTYTECH.jpg"
+          },
+          "title": "Beauty tech",
+          "description": "We invent the future of beauty",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/beauty-tech/"
+        },
+        {
+          "image": {
+            "alt": "Green Science",
+            "url": "/images/card_GREENSCIENCES.jpg"
+          },
+          "title": "Green Science",
+          "description": "We believe nature is the future of beauty",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/green-sciences/"
+        },
+        {
+          "image": {
+            "alt": "Modiface",
+            "url": "/images/card_modiface.jpg"
+          },
+          "title": "Modiface",
+          "description": "Discovering ModiFace",
+          "link": "https://www.loreal.com/en/beauty-science-and-technology/beauty-tech/discovering-modiface/"
+        },
+        {
+          "image": {
+            "alt": "Research",
+            "url": "/images/card_sciences.jpg"
+          },
+          "title": "Research",
+          "description": "Innovating through science",
+          "link": "https://www.loreal.com/en/beauty-science-and-technology/beauty-research-and-innovation/innovating-through-science/"
+        },
+        {
+          "image": {
+            "alt": "Sourcing",
+            "url": "/images/card_solso.jpg"
+          },
+          "title": "Sourcing",
+          "description": "About Solidarity Sourcing",
+          "link": "https://www.loreal.com/en/articles/commitments/about-solidarity-sourcing/"
+        },
+        {
+          "image": {
+            "alt": "Diversity",
+            "url": "/images/card_diversity.jpg"
+          },
+          "title": "Diversity",
+          "description": "We strive to be as diverse as the people we serve",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/diversity-inclusion/"
+        },
+        {
+          "image": {
+            "alt": "Women Cause",
+            "url": "/images/card_women.jpg"
+          },
+          "title": "Women Cause",
+          "description": "We Stand for All Women Around the World",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/women-cause/"
+        },
+        {
+          "image": {
+            "alt": "Animal testing",
+            "url": "/images/card_animal.jpg"
+          },
+          "title": "Animal testing",
+          "description": "For Beauty With No Animal Testing",
+          "link": "https://www.loreal.com/en/commitments-and-responsibilities/for-the-planet/for-beauty-with-no-animal-testing/"
+        },
+        {
+          "image": {
+            "alt": "Plastic",
+            "url": "/images/card_plastic.jpg"
+          },
+          "title": "Plastic",
+          "description": "Reducing Virgin Plastic Packaging",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/reducing-plastic-packaging/"
+        },
+        {
+          "image": {
+            "alt": "Climate",
+            "url": "/images/card-climate.jpg"
+          },
+          "title": "Climate",
+          "description": "Fighting Climate Change",
+          "link": "https://www.loreal.com/en/commitments-and-responsibilities/for-the-planet/fighting-climate-change/"
+        },{
+          "image": {
+            "alt": "Biodiversity",
+            "url": "/images/card_biodiversity.jpg"
+          },
+          "title": "Biodiversity",
+          "description": "We act to preserve biodiversity",
+          "link": "https://www.loreal.com/en/articles/commitments/fund-for-nature-regeneration/"
+        }
+      ]
+    }
+  ]
+}
+
+

@@ -1,0 +1,156 @@
+{
+  "slug": "teint-particulier",
+  "blocks": [
+    {
+      "type": "arrow",
+      "title": "Lancôme's Le Teint Particulier",
+      "description": "<p>Have you ever dreamed about finding the perfect foundation shade to match your skin color? Now it's possible with Lancôme's Le Teint Particulier!</p>",
+      "image": {
+        "url": "/images/teint-01.png",
+        "alt": "Teint Particulier"
+      }
+    },
+    {
+      "type": "alternance",
+      "position": "left",
+      "title": "Creation of the perfect foundation for every person",
+      "description": "<p>At L’Oréal, we believe that thanks to technology, our way of understanding beauty will completely change over the next few years. In order to always remain at the forefront of innovation, we continually strive to personalize the products we offer. With Lancôme's Le Teint Particulier, we have made it our mission to create the perfect foundation for every person.</p><p>Thanks to our research teams based in San Francisco, we have successfully created a pa-tented technology that allows each woman to obtain her own customized foundation, in perfect harmony with her skin tone. As well as the shade, the level of hydration and cover-age can also be adapted. With 72,000 possible combinations, this customized foundation guarantees a unique experience.</p>",
+      "images": [
+        {
+          "url": "/images/teint-02.png",
+          "alt": "Teint Particulier"
+        }
+      ]
+    },
+    {
+      "type": "alternance",
+      "position": "right",
+      "title": "A unique in-store experience",
+      "description": "<p>With Lancôme's Le Teint Particulier, we use technology to enhance customer experience. And this immersion starts in store. A Lancôme beauty advisor accompanies each customer and begins the consultation by scanning their skin in three different locations to precisely analyze the type and shade.</p><p>An exclusive algorithm developed by our teams interprets the results to determine the per-fect foundation. With a color accuracy that's superior to the human eye, the algorithm makes it possible to choose the perfect shade for every skin tone. The customized formula is then prepared in store within twenty minutes. Its long-lasting breathable formula without oil, perfume or parabens is suitable for all skin types.</p>",
+      "images": [
+        {
+          "url": "/images/teint-04.png",
+          "alt": "Teint Particulier"
+        }
+      ]
+    },
+    {
+      "type": "alternance",
+      "position": "left",
+      "title": "Technology for an outstanding color accuracy",
+      "description": "<p>Our unique color assessment and color blending technology delivers outstanding color accuracy. Every Le Teint Particulier formula is customized to your precise skin tone measurements using a proprietary algorithm that analyzes and then matches your exact skin tone. Pure red, blue, yellow and white pigments are measured and blended together to create your unique shade. You foundation is created and bottled on-site, right before your eyes and the Lancome color expert can adjust the color based on your personal preferences.</p>",
+      "images": [
+        {
+          "url": "/images/teint-05.png",
+          "alt": "Teint Particulier"
+        }
+      ]
+    },
+        {
+      "type": "cards",
+      "pretitle": "More about Future of Beauty",
+      "title": "How we create the beauty that moves the world",
+      "description": "For over a century we have been dedicated to one sole vocation: creating beauty. Our goal is to offer each and every person around the world the best of beauty in terms of quality, efficacy, safety, sincerity and responsibility to satisfy all beauty needs and desires in their infinite diversity.",
+      "cards": [
+        {
+          "image": {
+            "alt": "Beauty Tech",
+            "url": "/images/card_BEAUTYTECH.jpg"
+          },
+          "title": "Beauty tech",
+          "description": "We invent the future of beauty",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/beauty-tech/"
+        },
+        {
+          "image": {
+            "alt": "Green Science",
+            "url": "/images/card_GREENSCIENCES.jpg"
+          },
+          "title": "Green Science",
+          "description": "We believe nature is the future of beauty",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/green-sciences/"
+        },
+        {
+          "image": {
+            "alt": "Modiface",
+            "url": "/images/card_modiface.jpg"
+          },
+          "title": "Modiface",
+          "description": "Discovering ModiFace",
+          "link": "https://www.loreal.com/en/beauty-science-and-technology/beauty-tech/discovering-modiface/"
+        },
+        {
+          "image": {
+            "alt": "Research",
+            "url": "/images/card_sciences.jpg"
+          },
+          "title": "Research",
+          "description": "Innovating through science",
+          "link": "https://www.loreal.com/en/beauty-science-and-technology/beauty-research-and-innovation/innovating-through-science/"
+        },
+        {
+          "image": {
+            "alt": "Sourcing",
+            "url": "/images/card_solso.jpg"
+          },
+          "title": "Sourcing",
+          "description": "About Solidarity Sourcing",
+          "link": "https://www.loreal.com/en/articles/commitments/about-solidarity-sourcing/"
+        },
+        {
+          "image": {
+            "alt": "Diversity",
+            "url": "/images/card_diversity.jpg"
+          },
+          "title": "Diversity",
+          "description": "We strive to be as diverse as the people we serve",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/diversity-inclusion/"
+        },
+        {
+          "image": {
+            "alt": "Women Cause",
+            "url": "/images/card_women.jpg"
+          },
+          "title": "Women Cause",
+          "description": "We Stand for All Women Around the World",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/women-cause/"
+        },
+        {
+          "image": {
+            "alt": "Animal testing",
+            "url": "/images/card_animal.jpg"
+          },
+          "title": "Animal testing",
+          "description": "For Beauty With No Animal Testing",
+          "link": "https://www.loreal.com/en/commitments-and-responsibilities/for-the-planet/for-beauty-with-no-animal-testing/"
+        },
+        {
+          "image": {
+            "alt": "Plastic",
+            "url": "/images/card_plastic.jpg"
+          },
+          "title": "Plastic",
+          "description": "Reducing Virgin Plastic Packaging",
+          "link": "https://www.loreal.com/en/group/about-loreal/our-purpose/reducing-plastic-packaging/"
+        },
+        {
+          "image": {
+            "alt": "Climate",
+            "url": "/images/card-climate.jpg"
+          },
+          "title": "Climate",
+          "description": "Fighting Climate Change",
+          "link": "https://www.loreal.com/en/commitments-and-responsibilities/for-the-planet/fighting-climate-change/"
+        },{
+          "image": {
+            "alt": "Biodiversity",
+            "url": "/images/card_biodiversity.jpg"
+          },
+          "title": "Biodiversity",
+          "description": "We act to preserve biodiversity",
+          "link": "https://www.loreal.com/en/articles/commitments/fund-for-nature-regeneration/"
+        }
+      ]
+    }
+  ]
+}
