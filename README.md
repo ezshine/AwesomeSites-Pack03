@@ -5,3 +5,4 @@
 - www.hape.io
 - cleo.show
 - futureofbeauty.loreal.com
+- sigmasoftwarelabs.com

@@ -1,0 +1,1 @@
+{"version":"Contact Form 7 SWV Schema 2022-03","locale":"en_US","rules":[{"rule":"required","field":"your-email","error":"Please fill out this field."},{"rule":"email","field":"your-email","error":"Please enter an email address."}]}
