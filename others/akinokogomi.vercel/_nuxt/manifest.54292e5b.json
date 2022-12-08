@@ -1,0 +1,10 @@
+{
+  "name": "秋野コゴミ",
+  "short_name": "秋野コゴミ",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#f1f1f1",
+  "theme_color": "#111",
+  "lang": "jp"
+}
