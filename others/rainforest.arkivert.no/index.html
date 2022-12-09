@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html id="html" class="ie ie6 no-js" lang="nb-no"> <![endif]-->
+<!--[if IE 7 ]> <html id="html" class="ie ie7 no-js" lang="nb-no"> <![endif]-->
+<!--[if IE 8 ]> <html id="html" class="ie ie8 no-js" lang="nb-no"> <![endif]-->
+<!--[if IE 9 ]> <html id="html" class="ie ie9 no-js" lang="nb-no"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html id="html" class="no-js" lang="nb-NO"> <!--<![endif]-->
+    <head>
+        <script>
+          window.tvaksjonenTimeStampAtStartup = new Date();
+        </script>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, user-scalable=0" />
+                <title>Save the Rainforest</title>
+
+
+        <meta name="description" content="TV-aksjonen NRK and The Rainforest Foundation October 18th">
+        <meta property="og:title" content="TV-aksjonen NRK and The Rainforest Foundation October 18th" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="http://rainforest.arkivert.no/" />
+        <meta property="og:image" content="http://regnskogvokter.blimed.no/assets/images/share_nettside.jpg" />
+        <meta property="og:site_name" content="TV-aksjonen 2015" />
+        <meta property="og:description" content="Are we really going to be the generation that let the rainforest disappear? Not on my watch! Become a protector of the rainforest. Become a volunteer for The Rainforest Foundation on October 18th. " />
+
+        
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="stylesheet" href="/assets/v32/css/main.min.css"  media="only screen"/>
+        <!-- <link rel="stylesheet" href="/assets/v32/css/enhanced.min.css" media="only screen and (min-width: 768px) and (min-height: 600px)" />
+         --><link href="https://rainforest.arkivert.no/opensearch.xml" rel="search" title="Søk" type="application/opensearchdescription+xml">
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+
+        
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+        <script src="/assets/v32/js/libs.js"></script>
+        <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/1.17.0/utils/Draggable.min.js"></script>
+        <script type="text/javascript" src="/panorama/tvaksjonenpano2vr_player.js"></script>
+
+        <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-11427662-49', 'auto');
+        </script>
+    </head>
+    <body>
+        
+    <div id="mapView" class="view">
+      <div id="guardianOverlay" class="name-overlay">
+        <h3 class="label">Protected by</h3>
+        <h2 class="name-box">Helene</h2>
+        <button id="bliSkogvokter">Become a protector</button>
+      </div>
+
+      <div id="userOverlay" class="name-overlay">
+        <h3 class="label">Protected by</h3>
+        <h2 class="name-box">Helene</h2>
+        <button id="fbShare" class="fb-share">Recruit more protectors</button>
+      </div>
+
+      <div id="introOverlay" class="name-overlay">
+        <h3 class="label">Protected by</h3>
+        <h2 class="name-box">Helene</h2>
+      </div>
+
+      <div id="introTexts" class="intro-texts">
+        <p>We need 100 000 volunteers to protect this area.</p>
+        <p>Become a rainforest protector.</p>
+        <p>Become a volunteer<br>on October 18th.</p>
+      </div>
+
+      <div id="counter">
+        <div        class="counter-number">98.367/100.000</div>
+        <div        class="counter-label">Protectors so far</div>
+        <a href="http://blimed.no/tv-aksjonen-2015/" class="counter-link" target="_blank">Read more about this project</a>
+      </div>
+
+    </div>
+
+    <div id="panoramaView" class="view draggable">
+
+      <div id="pano2vr"></div>
+      <button class="close-panorama">Back to map</button>
+      <div id="panoHelper" class="pano-helper">
+        <h3 class="desktop">Click and drag to navigate</h3>
+        <h3 class="mobile">Move the phone to look around</h3>
+        <div class="icon"></div>
+        <button id="closeHelper">Ok</button>
+      </div>
+<!--       <div id="panoramaContent">
+        <div class="closebutton">X</div>
+        <div class="content">
+
+        </div>
+      </div> -->
+    </div>
+
+    <div id="trailMenu" class="trailmenu view">
+      <li><a href="#panorama/1" class="btn-1"><span class="left">The Village</span></a></li>
+      <li><a href="#panorama/2" class="btn-2"><span class="left">The Riverbank</span></a></li>
+      <li><a href="#panorama/3" class="btn-3"><span class="right">The Trail</span></a></li>
+      <li><a href="#panorama/4" class="btn-4"><span class="left">The Natives</span></a></li>
+      <li><a href="#panorama/5" class="btn-5"><span class="right">The Forest</span></a></li>
+    </div>
+
+    
+
+<div id="intro">
+  <div class="staticbg"></div>
+  <div class="clouds tiles"></div>
+  <div class="message">
+    <div class="m1"></div>
+    <div class="m2"></div>
+  </div>
+  <div id="loader">
+    <div class="progress"></div>
+  </div>
+</div>
+<!-- <script src="/assets/v32/js/treeclouds.js"></script> -->
+<script>(function () {
+
+
+	var clouds = [],maps = [];
+	var INTERNAL_WIDTH, TOTAL_WIDTH,TOTAL_HEIGHT, PERSPECTIVE = 100, SIZE = 400,CLOUD_SCALE = 3, CLOUD_WIDTH = 400, CLOUD_HEIGHT = 253, CLOUDS = 10, HAS_3D_TRANSFORM;
+	var rows = 3,cols;
+	var RANDOM = [.12,.53,.05,.48,.22,.38,.23,.92,.78,.88,.94,.63,.22,.51,.80,.77,.27,.31,.18,.60,.98,.28,.19,.17,.00,.96,.73,.25,.13,.32,.65,.42,.40,.72,.42,.54,.56,.08,.90,.13,.15,.85,.60,.56,.77,.92,.91,.89,.16,.51,.39,.03,.31,.28,.59,.67,.12,.21,.67,.84,.34,.18,.46,.13,.84,.22,.09,.59,.72,.87,.02,.28,.31,.60,.72,.93,.60,.80,.24,.26,.34,.26,.26,.86,.35,.20,.60,.67,.88,.39,.83,.51,.09,.61,.37,.86,.83,.62,.20,.53];
+	var playing = true;
+	var currentMessage = 0;
+
+	if (!window.requestAnimationFrame) 
+	  window.requestAnimationFrame = function(callback, element) { window.setTimeout(function() { callback(); }, 16); };
+
+	CLOUDS = Math.ceil( $(window).width() / 200);
+	
+	var $containerMaps = $('#intro .maps');
+	var $containerClouds = $('#intro .clouds');
+	var $messages = $('#intro .message div');
+	
+	window.tvaksjonenCloudPicture = 'assets/images/intro/cloud_fluff_double400_64.png';
+	
+	var Cloud = function (i,x,y,scale) {
+		this.offsetX = x;this.x = x;this.y = y;this.scale = scale;this.i = i;
+		$containerClouds.append('<img class="cloud anim" id="c' + i + '" src="' + window.tvaksjonenCloudPicture +  '" onload="tvaksjonenLoadApplication();">');
+
+		this.$el = $containerClouds.find('#c' + i);
+		this.$el.css('opacity', (0.5 + Math.random()*0.3).toFixed(1)); //Opacity creates bugs in Firefox with large scaling
+
+		Cloud.prototype.resize = function () {
+			this.width = CLOUD_WIDTH * this.scale;
+			this.height = CLOUD_HEIGHT * this.scale;
+			this.travelWidth = $(window).width() + this.width;
+			this.translatedY = Math.round(this.y * $(window).height() - this.height * 0.5);
+			this.speed = this.scale * 0.5 * 0.1;
+		}
+
+		this.resize();
+
+		Cloud.prototype.update = function () {
+			var tempX = this.offsetX + Date.now() *  this.speed;
+			this.x = (tempX % this.travelWidth ) - this.width;
+
+			this.$el.css('transform', 'translate(' + this.x.toFixed(1) + 'px, ' + this.translatedY + 'px) scale(' + this.scale + ')');
+		}
+	}
+
+	function resize() {
+		var scale = window.innerHeight/(SIZE*rows); //Calculate scale from height
+		$containerMaps.css('transform', 'scale('+ scale.toFixed(2) +')');
+		INTERNAL_WIDTH = $(window).width() / scale; 
+		CLOUD_TRAVEL_WIDTH = $(window).width();
+
+		width = INTERNAL_WIDTH / SIZE;
+		cols = Math.ceil(width) + 1;
+		TOTAL_WIDTH = cols * SIZE;
+		TOTAL_HEIGHT = rows * SIZE;
+
+		var MAPS = cols * rows;
+
+		for (var i = 0, len = clouds.length; i < len; i++) {
+			clouds[i].resize();
+		}
+		
+		$('#intro').find('.map').remove();
+	}
+
+	//OnLoad
+	$(function(){ 
+		if (window.location.hash === '') {
+			init();
+		} else {
+			window.tvaksjonenLoadApplication();
+      $('#intro').remove();
+		}
+	});
+
+	function nextMessage() {
+		var oldMessage = currentMessage;
+		currentMessage = (currentMessage + 1) % $messages.length;
+		$messages.eq(oldMessage).fadeOut(1000, 
+			function () { 
+				$messages.eq(currentMessage).fadeIn(1000);
+			}
+		);
+		
+
+		if (currentMessage > 0 && window.tvaksjonenIntroIsComplete == undefined) {
+			
+			window.tvaksjonenIntroIsComplete = true;
+			if (window.hasOwnProperty('app')) {
+				app.introComplete();
+			} 
+			
+			console.log('Har vist 2 meldinger');
+		}
+		setTimeout(nextMessage, 5000);
+	}
+
+	function init() {
+		var space = $(window).width() / CLOUDS * 2;
+		resize();
+
+		for (var i = 0; i < CLOUDS; i++) {
+			var p = i / (CLOUDS);
+			var c = new Cloud(i, p * CLOUD_TRAVEL_WIDTH, RANDOM[i], (0.5 + RANDOM[i] * 0.5) * CLOUD_SCALE);
+			clouds.push(c);
+		}
+		render();
+
+		$(window).on('resize',resize);
+		$(window).on("orientationchange", resize);
+
+		setTimeout(function () {$messages.eq(currentMessage).fadeIn();},2000);
+		setTimeout(nextMessage, 5000);
+	}
+
+	function render() {
+		if (playing) {
+			for (var i = 0, len = clouds.length; i < len; i++) {
+				clouds[i].update();
+			}
+			requestAnimationFrame(render);
+		}
+	}
+
+	window.tvaksjonenStopIntro = function  () {
+		playing = false;
+		$('#intro').remove();
+		$(window).off('resize',resize);
+		$(window).off("orientationchange", resize);
+	}
+
+
+
+})();</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    <div id="cloudView"></div>
+
+<div id="contentView" class=""><div class="circle-bg"></div><div class="content-picture content-left"><div class="content-video-container"><button class="content-video-play"><!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In  --><svg version="1.1"
+           xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+           x="0px" y="0px" width="46.5px" height="53.7px" viewBox="0 0 46.5 53.7" enable-background="new 0 0 46.5 53.7"
+           xml:space="preserve"><defs></defs><polygon fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" points="0.5,0.9 45.5,26.8 0.5,52.8 "/></svg></button></div></div><div class="content-right"><div class="dialog-view-container"><button class="sidepanel-close-button" alt="Lukk"><svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+   x="0px" y="0px" width="27.8px" height="31.7px" viewBox="0 0 27.8 31.7" enable-background="new 0 0 27.8 31.7"
+   xml:space="preserve"><defs></defs><line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="0.4" y1="0.3" x2="27.4" y2="31.3"/><line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="27.4" y1="0.3" x2="0.4" y2="31.3"/></svg></button><div class="content-heading"><h2>Volunteer</h2><img class="content-heading-image" src="/assets/images/content/1/folk/folk_heading.png"></div><p class="body-text content"></p><a href="#" class="content-register">Volunteer</a></div><button class="content-next-button" alt="Neste"><span class="btn-bg"></span><span class="btn-txt">Next fact</span></button></div></div><img src="/assets/images/logo.png" id="logo"><div id="menuView"><div class="topmenu"><div class="social menuButton ib"><button class="mute"><svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+   x="0px" y="0px" width="18px" height="13.1px" viewBox="0 0 18 13.1" enable-background="new 0 0 18 13.1" xml:space="preserve"><defs></defs><g id="XMLID_6_"><rect id="XMLID_10_" y="7.1" fill="#FFFFFF" width="3" height="6"/><rect id="XMLID_9_" x="5" fill="#FFFFFF" width="3" height="13.1"/><rect id="XMLID_8_" x="10" y="4" fill="#FFFFFF" width="3" height="9.1"/><rect id="XMLID_7_" x="15" y="6" fill="#FFFFFF" width="3" height="7.1"/></g></svg></button><button class="like textbutton"><svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+   x="0px" y="0px" width="15px" height="15px" viewBox="0 0 15 15" enable-background="new 0 0 0 0" xml:space="preserve"><defs></defs><path id="White_1_" fill="#FFFFFF" d="M14.2,0H0.8C0.4,0,0,0.4,0,0.8v13.3C0,14.6,0.4,15,0.8,15H8V9.2h-2V6.9h2V5.3
+  c0-1.9,1.2-3,2.9-3c0.8,0,1.5,0.1,1.7,0.1v2h-1.2c-0.9,0-1.1,0.4-1.1,1.1v1.4h2.2l-0.3,2.3h-2V15h3.8c0.5,0,0.8-0.4,0.8-0.8V0.8
+  C15,0.4,14.6,0,14.2,0z"/></svg><span>SHARE</span></button></div><div class="formbutton menuButton ib"><button class="textbutton">Become a protector</button></div></div><div id="registrationView" class="formcontainer ib dialog-view"><button class="sidepanel-close-button" alt="Lukk"><svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+   x="0px" y="0px" width="27.8px" height="31.7px" viewBox="0 0 27.8 31.7" enable-background="new 0 0 27.8 31.7"
+   xml:space="preserve"><defs></defs><line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="0.4" y1="0.3" x2="27.4" y2="31.3"/><line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="27.4" y1="0.3" x2="0.4" y2="31.3"/></svg></button><form action="/" method="post" class="dialog-view-container"><!-- novalidate --><h2>Become a protector</h2><p class="body-text body-date">October 18th 2015</p><p class="body-text">Registration is now closed. Thank you to everyone who contributed.</p><div id="participant"><div class="fieldrow mobile "><label for="participant_mobile" class="required">Phone</label><input type="text" id="participant_mobile" name="participant[mobile]" required="required" pattern=".*(^((0047)?|(\+47)?|(47)?)\d{8}$).*" title="Prøv å taste inn ett mobilnummer" /><button type="button" class="get-info">Get info</button></div><div class="fieldrow firstname "><label for="participant_firstname" class="required">First name</label><input type="text" id="participant_firstname" name="participant[firstname]" required="required" title="Du må fylle inn fornavn" /></div><div class="fieldrow surname "><label for="participant_surname" class="required">Last name</label><input type="text" id="participant_surname" name="participant[surname]" required="required" title="Du må fylle inn etternavn" /></div><div class="fieldrow streetname "><label for="participant_streetname" class="required">Street</label><input type="text" id="participant_streetname" name="participant[streetname]" required="required" /></div><div class="fieldrow housenumber "><label for="participant_housenumber">No.</label><input type="text" id="participant_housenumber" name="participant[housenumber]" maxlength="4" title="Husnummer, maks fire tegn" /></div><div class="fieldrow zipcode "><label for="participant_zipcode" class="required">Zipcode</label><input type="text" id="participant_zipcode" name="participant[zipcode]" required="required" pattern="\d{4}" title="Prøv postkode, fire tall" /></div><div class="fieldrow state "><label for="participant_state" class="required">State</label><input type="text" id="participant_state" name="participant[state]" required="required" /></div><div class="fieldrow email "><label for="participant_email" class="required">E-mail</label><input type="email" id="participant_email" name="participant[email]" required="required" title="Prøv en gylig epostadresse" /></div><input type="hidden" id="participant__token" name="participant[_token]" value="2jfaI6ERvW3p4EtC6cbKi3_d1UZgpEib3wklLx-hqx8" /></div><input type="submit" value="Register" disabled="true" /><div class="logo-1881"><p>This search is sponsored by</p><img src="/assets/v32/images/1881.png" width="139" height="32"></div></form></div></div><div id="fb-root"></div>
+    
+    <!-- Facebook script START -->
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '864679316979636',
+      xfbml      : true,
+      version    : 'v2.4'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+    <!-- Facebook script END -->
+
+        <script>
+            window.tvaksjonenDebug = false;
+            function tvaksjonenLoadApplication() {
+
+
+                if (window.tvaksjonenApplicationLoaded === undefined) {
+                    window.tvaksjonenApplicationLoaded = true;
+                    
+                    if (window.tvaksjonenDebug) {
+                      if (console && console.log && typeof console.log === "function") {
+                        console.log('send', 'event','System', 'Loading', 'tvaksjonenLoadApplication', (new Date() - window.tvaksjonenTimeStampAtStartup))
+                      }
+                    } else {
+                      ga('send', 'event','System', 'Loading', 'onMapLoadComplete', (new Date() - window.tvaksjonenTimeStampAtStartup))
+                    }
+                    
+                    window.asyncLoader = function (url, cb) {
+                      var s = document.createElement('script')
+                        , f = document.getElementsByTagName('script')[0];
+                      s.async = true; s.src = url;
+                      if ('function' === typeof(cb)) {
+                        s.onload = function() { cb(); 
+                        s.onload = s.onreadystatechange = null; 
+                      };
+                      s.onreadystatechange = function() { if ('loaded' === s.readyState || 'complete' === s.readyState) s.onload(); };
+                      }
+                      f.parentNode.insertBefore(s, f);
+                    };
+
+                    var count = 0;
+                    function onAsyncLoaded() {
+                        if (++count === 1) {
+                            var config = {
+                              debug: window.tvaksjonenDebug,
+                              assetsVersion: 32,
+                              assetsPath: '/assets/v32/',
+                              domain: 'http://regnskogvokter.blimed.no'
+                            }
+                            var app = new Application(config);
+                        }
+                    }
+
+                    window.asyncLoader('/assets/v32/js/app.js', onAsyncLoaded);
+                }
+            };
+        </script>
+    <!--
+        <script type="text/javascript" src="/assets/v32/js/app.js"></script>
+        <script type="text/javascript" src="/assets/v32/js/libs.js"></script>
+    -->
+             
+    </body>
+</html>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="-55" fov="70" tilt="3"/>
+      <min pan="-180" fov="5" tilt="-54.2984"/>
+      <max pan="180" fov="120" tilt="54.2984"/>
+    </view>
+    <userdata title="" datetime="2015:06:23 14:50:53" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="_self" pan="-104.861" skinid="P1_dyr" url="/#panorama/1/dyr" id="P1_dyr" tilt="-0.653056"/>
+      <hotspot title="" target="_self" pan="143.898" skinid="P1_folk" url="/#panorama/1/folk" id="P1_folk" tilt="-2.50927"/>
+      <hotspot title="" target="_self" pan="-149.735" skinid="P1_kultur" url="/#panorama/1/kultur" id="P1_kultur" tilt="11.4939"/>
+      <hotspot title="" target="_self" pan="-9.73246" skinid="P1_hovding" url="/#panorama/1/hovding" id="P1_hovding" tilt="-2.7189"/>
+      <hotspot title="" target="_self" pan="33.1088" skinid="P1_trussel" url="/#panorama/1/trussel" id="P1_trussel" tilt="11.0689"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/1 Panorama_o_0.jpg" prev5url="images/1 Panorama_o_preview_5.jpg" prev4url="images/1 Panorama_o_preview_4.jpg" prev3url="images/1 Panorama_o_preview_3.jpg" prev2url="images/1 Panorama_o_preview_2.jpg" prev1url="images/1 Panorama_o_preview_1.jpg" prev0url="images/1 Panorama_o_preview_0.jpg" tile5url="images/1 Panorama_o_5.jpg" tilesize="1600" tile4url="images/1 Panorama_o_4.jpg" tile3url="images/1 Panorama_o_3.jpg" tilescale="1.006250" tile2url="images/1 Panorama_o_2.jpg" tile1url="images/1 Panorama_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="1" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="158" fov="73.5" tilt="10"/>
+      <min pan="0" fov="5" tilt="-65"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2015:06:23 14:44:36" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="_self" pan="56.328" skinid="P2_klaer" url="/#panorama/2/klaer" id="P2_klaer" tilt="11.1616"/>
+      <hotspot title="" target="_self" pan="138.877" skinid="P2_dyr" url="/#panorama/2/dyr" id="P2_dyr" tilt="-9.56254"/>
+      <hotspot title="" target="_self" pan="-160.305" skinid="P2_folk" url="/#panorama/2/folk" id="P2_folk" tilt="-15.3988"/>
+      <hotspot title="" target="_self" pan="-44.2795" skinid="P2_natur" url="/#panorama/2/natur" id="P2_natur" tilt="0.677984"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/2 Panorama_o_0.jpg" prev5url="images/2 Panorama_o_preview_5.jpg" prev4url="images/2 Panorama_o_preview_4.jpg" prev3url="images/2 Panorama_o_preview_3.jpg" prev2url="images/2 Panorama_o_preview_2.jpg" prev1url="images/2 Panorama_o_preview_1.jpg" prev0url="images/2 Panorama_o_preview_0.jpg" tile5url="images/2 Panorama_o_5.jpg" tilesize="1600" tile4url="images/2 Panorama_o_4.jpg" tile3url="images/2 Panorama_o_3.jpg" tilescale="1.006250" tile2url="images/2 Panorama_o_2.jpg" tile1url="images/2 Panorama_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="1" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="100" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-65"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2015:06:23 14:43:49" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="_self" pan="-61.1348" skinid="P3_dyr" url="/#panorama/3/dyr" id="P3_dyr" tilt="-18.6284"/>
+      <hotspot title="" target="_self" pan="87.0285" skinid="P3_folk" url="/#panorama/3/folk" id="P3_folk" tilt="-0.986969"/>
+      <hotspot title="" target="_self" pan="-136.287" skinid="P3_kultur" url="/#panorama/3/kultur" id="P3_kultur" tilt="10.7524"/>
+      <hotspot title="" target="_self" pan="152.806" skinid="P3_natur" url="/#panorama/3/natur" id="P3_natur" tilt="20.0391"/>
+      <hotspot title="" target="_self" pan="3.98172" skinid="P3_trussel" url="/#panorama/3/trussel" id="P3_trussel" tilt="8.58754"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/3 Panorama_o_0.jpg" prev5url="images/3 Panorama_o_preview_5.jpg" prev4url="images/3 Panorama_o_preview_4.jpg" prev3url="images/3 Panorama_o_preview_3.jpg" prev2url="images/3 Panorama_o_preview_2.jpg" prev1url="images/3 Panorama_o_preview_1.jpg" prev0url="images/3 Panorama_o_preview_0.jpg" tile5url="images/3 Panorama_o_5.jpg" tilesize="1600" tile4url="images/3 Panorama_o_4.jpg" tile3url="images/3 Panorama_o_3.jpg" tilescale="1.006250" tile2url="images/3 Panorama_o_2.jpg" tile1url="images/3 Panorama_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="1" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="27.5" fov="70" tilt="5"/>
+      <min pan="0" fov="5" tilt="-45"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2015:06:23 14:36:08" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="_self" pan="56.8486" skinid="P4_dyr" url="/#panorama/4/dyr" id="P4_dyr" tilt="7.03281"/>
+      <hotspot title="" target="_self" pan="159.436" skinid="P4_folk" url="/#panorama/4/folk" id="P4_folk" tilt="1.35384"/>
+      <hotspot title="" target="_self" pan="-75.3944" skinid="P4_kultur" url="/#panorama/4/kultur" id="P4_kultur" tilt="8.5777"/>
+      <hotspot title="" target="_self" pan="-121.827" skinid="P4_trussel" url="/#panorama/4/trussel" id="P4_trussel" tilt="0.418285"/>
+      <hotspot title="" target="_self" pan="-3.47921" skinid="P4_natur" url="/#panorama/4/natur" id="P4_natur" tilt="7.32216"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/4 Panorama_o_0.jpg" prev5url="images/4 Panorama_o_preview_5.jpg" prev4url="images/4 Panorama_o_preview_4.jpg" prev3url="images/4 Panorama_o_preview_3.jpg" prev2url="images/4 Panorama_o_preview_2.jpg" prev1url="images/4 Panorama_o_preview_1.jpg" prev0url="images/4 Panorama_o_preview_0.jpg" tile5url="images/4 Panorama_o_5.jpg" tilesize="1600" tile4url="images/4 Panorama_o_4.jpg" tile3url="images/4 Panorama_o_3.jpg" tilescale="1.006250" tile2url="images/4 Panorama_o_2.jpg" tile1url="images/4 Panorama_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="1" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-65"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2015:06:23 14:41:07" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="_self" pan="163.71" skinid="P5_aper" url="/#panorama/5/aper" id="P5_aper" tilt="13.4838"/>
+      <hotspot title="" target="_self" pan="113.36" skinid="P5_dyr" url="/#panorama/5/dyr" id="P5_dyr" tilt="0.579926"/>
+      <hotspot title="" target="_self" pan="43.4953" skinid="P5_kultur" url="/#panorama/5/kultur" id="P5_kultur" tilt="9.62267"/>
+      <hotspot title="" target="_self" pan="-107.244" skinid="P5_natur" url="/#panorama/5/natur" id="P5_natur" tilt="6.78484"/>
+      <hotspot title="" target="_self" pan="-160.094" skinid="P5_trussel" url="/#panorama/5/trussel" id="P5_trussel" tilt="10.2163"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/7 Panorama_o_0.jpg" prev5url="images/7 Panorama_o_preview_5.jpg" prev4url="images/7 Panorama_o_preview_4.jpg" prev3url="images/7 Panorama_o_preview_3.jpg" prev2url="images/7 Panorama_o_preview_2.jpg" prev1url="images/7 Panorama_o_preview_1.jpg" prev0url="images/7 Panorama_o_preview_0.jpg" tile5url="images/7 Panorama_o_5.jpg" tilesize="1600" tile4url="images/7 Panorama_o_4.jpg" tile3url="images/7 Panorama_o_3.jpg" tilescale="1.006250" tile2url="images/7 Panorama_o_2.jpg" tile1url="images/7 Panorama_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="1" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>

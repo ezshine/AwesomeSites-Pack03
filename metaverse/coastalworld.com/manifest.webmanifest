@@ -1,0 +1,22 @@
+{
+	"short_name": "Coastal World - Digital Banking 3D Game and Marketplace",
+	"name": "Coastal World - Digital Banking 3D Game and Marketplace",
+	"description": "Play Coastal World now and explore mobile banking apps, digital credit cards, and online banking options that can help you reach your financial goals.",
+	"start_url": "/",
+	"background_color": "#000000",
+	"theme_color": "#000000",
+	"orientation": "portrait",
+	"icons": [
+		{
+			"src": "/icons/icon_192.png?v=e779bdee",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "/icons/icon_512.png?v=e779bdee",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	],
+	"display": "fullscreen"
+}

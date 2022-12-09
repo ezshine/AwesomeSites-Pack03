@@ -10,3 +10,5 @@
 - party.wearezizo.com
 - https://akinokogomi.vercel.app/
 - wearezizo.com
+- rainforest.arkivert.no
+- coastalworld.com
