@@ -12,3 +12,4 @@
 - wearezizo.com
 - rainforest.arkivert.no
 - coastalworld.com
+- technology.panasonic.eu
