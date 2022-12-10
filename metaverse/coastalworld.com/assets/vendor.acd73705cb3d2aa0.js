@@ -29446,7 +29446,7 @@ function zD(e) {
 		r = "us-central1";
 
 	function l(e, t) {
-		return `https://${e=e||r}-${t=t||n}.cloudfunctions.net/`
+		return `./`
 	}
 	const c = TD = {
 		get url() {
@@ -29482,7 +29482,7 @@ function zD(e) {
 		region: c = null,
 		fetchOptions: u = {}
 	} = {}) {
-		let d = l(c) + (e = "production_" + e);
+		let d = l(c) + (e = "" + e);
 		const h = Object.assign({}, u, {
 			method: (u.method || "get").toLowerCase()
 		});
