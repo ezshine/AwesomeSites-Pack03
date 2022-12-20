@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.69" height="13.518" viewBox="0 0 17.69 13.518">
+  <g id="图标-右箭头" transform="translate(0 0)">
+    <g id="组_688" data-name="组 688">
+      <path id="路径_169" data-name="路径 169" d="M17.69,1H0V-1H17.69Z" transform="translate(0 6.708)" fill="#acfdbd"/>
+      <path id="路径_170" data-name="路径 170" d="M9.462,7.759A12.247,12.247,0,0,1,1.944,5.488,7,7,0,0,1-1,0H1A4.959,4.959,0,0,0,3.158,3.9a10.425,10.425,0,0,0,6.3,1.86Z" transform="translate(8.228)" fill="#acfdbd"/>
+      <path id="路径_171" data-name="路径 171" d="M1,6.759H-1A7,7,0,0,1,1.944,1.271,12.246,12.246,0,0,1,9.462-1V1a10.424,10.424,0,0,0-6.3,1.861A4.959,4.959,0,0,0,1,6.759Z" transform="translate(8.228 6.759)" fill="#acfdbd"/>
+    </g>
+  </g>
+</svg>

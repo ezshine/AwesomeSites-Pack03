@@ -14,3 +14,5 @@
 - www.brettwilliams.net
 - coastalworld.com
 - technology.panasonic.eu
+- popmart2022
+- oppo_innoday2021

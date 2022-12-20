@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover" />
+    <title>OPPO 未来科技大会 2021 致善·前行</title>
+    <meta name="description" content="OPPO 未来科技大会是 OPPO 一年一度面向全球的科技盛会，旨在呈现 OPPO 对科技的最新思考和成果，分享科技思想、技术洞察和创新发现，激发人们对未来科技生活的向往和探索。" />
+    <meta name="keywords" content="OPPO 未来科技大会2021,INNO DAY,创新产品,技术,旗舰新品,发布会,致善前行,虚拟世界,形象定制" />
+    <meta name="renderer" content="webkit" />
+    <meta property="fb:app_id" content="2715915092043452" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.oppo.com/cn/events/innoday2021/" />
+    <meta property="og:title" content="OPPO INNO DAY 2021" />
+    <meta property="og:description" content="快来定制你在INNO世界的专属形象吧" />
+    <meta property="og:image" content="https://innodayweb.ssl.jimingkeji.com.cn/share/share_icon_en_up.png" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="OPPO INNO DAY 2021" />
+    <meta name="twitter:description" content="快来定制你在INNO世界的专属形象吧" />
+    <meta name="twitter:image" content="https://innodayweb.ssl.jimingkeji.com.cn/share/share_icon_en_up.png" />
+    <link rel="shortcut icon" href="//code.oppo.com/etc.clientlibs/global-site/clientlibs/clientlib-design/resources/icons/favicon.ico" type="image/x-icon" sizes="16x16" />
+    <style type="text/css">
+      .home>div:nth-child(1)
+      {
+        display: none !important;
+      }
+      .home>div:nth-child(2)
+      {
+        display: none !important;
+      }
+    </style>
+    <script>
+    if (!!window.ActiveXObject || 'ActiveXObject' in window) {
+        window.location.href = window.location.origin + '/error.html';
+    }
+
+
+
+    // 印度添加南天门埋点
+    if (location.pathname.indexOf('in') == 1) {
+        var oHead = document.getElementsByTagName('head').item(0);
+        var OTrackJs = document.createElement('script');
+        OTrackJs.type = 'text/javascript';
+        OTrackJs.src = 'https://frontend-static-common-in.heytapdl.com/otrack/otrack-latest.min.js';
+        oHead.appendChild(OTrackJs);
+        OTrackJs.onload = function() {
+            const oTrack = new OTrack({
+                app_id: '106002', // 必填, obus系统创建应用的id
+                app_key: '1360', // 必填，obus系统创建应用的app_key
+                region: 'in', // 必填，countryCode国家区域编码
+                env: 'prod', // 可选，默认为prod，代表接入obus的生产环境。test将接入测试环境
+                app_version: '', // 可选，业务应用版本
+                interval_time: 3, // 可选，埋点上报间隔时间，默认为3秒
+                max_batch_events: 10, // 可选，达到该条数后上报，默认为10条
+                fail_timeout: 60, // 可选，上报超时时间
+                fail_retry_count: 3 // 可选，上报失败重试时间
+            });
+
+            window.oTrack = oTrack;
+        };
+    }
+    </script>
+    <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <style></style>
+    <style></style>
+    <script defer="defer" src="./runtime.858206a8.js"></script>
+    <script defer="defer" src="./styles.9d185ad9.js"></script>
+    <script defer="defer" src="./vendors.5b534b0f.js"></script>
+    <script defer="defer" src="./index.121317fa.js"></script>
+    <link href="./styles.5f278abe.css" rel="stylesheet">
+</head>
+
+<body>
+    <div id="root"></div>
+</body>
+<script>
+// 截下来这一段直接用不用管
+if (typeof String.prototype.endsWith != 'function') {
+    String.prototype.endsWith = function(suffix) {
+        return this.indexOf(suffix, this.length - suffix.length) !== -1;
+    };
+}
+
+//$pageGroup
+var OPPOurl = window.location.href.split('//')[1] || '';
+
+// 判断页面类型
+var getPageGroupType = function() {
+    var urlStr = window.location.href.split('//')[1] || '';
+    //判断url阶层
+    var urlSeries = urlStr.substring(urlStr.indexOf('series'), urlStr.length);
+    var isSeries = urlSeries.split('/').length - 1;
+    var urlNewsStr = urlStr.substring(urlStr.indexOf('newsroom'), urlStr.length);
+    var urlTechStr = urlStr.substring(urlStr.indexOf('technology'), urlStr.length);
+    var urlSmartphone = urlStr.substring(urlStr.indexOf('smartphones'), urlStr.length);
+    var urlAccessory = urlStr.substring(urlStr.indexOf('accessories'), urlStr.length);
+    var urlAesStr = urlStr.substring(urlStr.indexOf('aesthetics-of-space'), urlStr.length);
+
+    if (OPPOurl.endsWith('/home.html') || (!OPPOurl.split('/')[2] && OPPOurl.indexOf('support.') < 0 && OPPOurl.indexOf('events.') < 0)) {
+        return 'Homepage';
+    } else if ((OPPOurl.indexOf('product') > 0 || OPPOurl.indexOf('series') > 0) && isSeries < 2) {
+        return 'Series Page';
+    } else if (OPPOurl.indexOf('/smartphones/') > 0 && urlSmartphone.length < 14) {
+        return 'Product List Page';
+    } else if (OPPOurl.indexOf('/accessories/') > 0 && urlAccessory.length < 14) {
+        return 'Product List Page';
+    } else if ((OPPOurl.indexOf('/smartphone') > 0 && isSeries >= 2) || (OPPOurl.indexOf('/accessory') > 0 && isSeries >= 2)) {
+        return 'Product Details Page';
+    } else if (OPPOurl.indexOf('/about') > 0 && OPPOurl.indexOf('/about-us/') < 0) {
+        return 'Brand Page';
+    } else if (OPPOurl.indexOf('/newsroom') > 0 && urlNewsStr.length < 10) {
+        return 'News List Page';
+    } else if (OPPOurl.indexOf('/newsroom') > 0 && urlNewsStr.length >= 10) {
+        return 'News Details Page';
+    } else if (OPPOurl.indexOf('support.') >= 0) {
+        return 'Support Page';
+    } else if (OPPOurl.indexOf('events') >= 0 || OPPOurl.indexOf('event') >= 0) {
+        return 'Events Page';
+    } else if (OPPOurl.indexOf('/contact') > 0) {
+        return 'Contact Us';
+    } else if (OPPOurl.indexOf('/co-branding') > 0) {
+        return 'Co-Branding';
+    } else if (OPPOurl.indexOf('/privacy') > 0) {
+        return 'Privacy';
+    } else if (OPPOurl.indexOf('/serveice-detail') > 0) {
+        return 'Service Infor Details Page';
+    } else if (OPPOurl.indexOf('/newslist') > 0) {
+        return 'News List Page';
+    } else if (OPPOurl.indexOf('/technology') > 0 && urlTechStr.length < 12) {
+        return 'Technology Page';
+    } else if (OPPOurl.indexOf('/technology/') > 0 && urlTechStr.length >= 12) {
+        return 'Technology Details Page';
+    } else if (OPPOurl.indexOf('/coloros') > 0) {
+        return 'ColorOS Page';
+    } else if (OPPOurl.indexOf('/about-us/') > 0) {
+        return 'About OPPO Page';
+    } else if (OPPOurl.indexOf('/shops/') > 0) {
+        return 'Store Locator';
+    } else if (OPPOurl.indexOf('/online-store') > 0 || OPPOurl.indexOf('/online_store') > 0) {
+        return 'Online Store Page';
+    } else if (OPPOurl.indexOf('/bookonline') > 0) {
+        return 'Book Online Page';
+    } else if (OPPOurl.indexOf('patent') > 0) {
+        return 'Patent Page';
+    } else if (OPPOurl.indexOf('/aesthetics-of-space') > 0 && urlAesStr.length < 21) {
+        return 'Aesthetics Page';
+    } else if (OPPOurl.indexOf('/aesthetics-of-space/') > 0 && urlAesStr.length >= 21) {
+        return 'Aesthetics Details Page';
+    } else {
+        return window.PAGEGROUPNAME || 'Others';
+    }
+};
+
+var getTechPageGroupType = function() {
+    if (OPPOurl.indexOf('/5') > 0) {
+        return '5G';
+    } else if (OPPOurl.indexOf('/vooc') > 0) {
+        return 'VOOC';
+    } else if (OPPOurl.indexOf('/imaging') > 0) {
+        return 'Imaging Technology';
+    } else {
+        return window.PAGEGROUPNAME || 'Others';
+    }
+};
+
+//传值分类
+var seriesName;
+var seriesURL;
+if (OPPOurl.indexOf('/series-') > 0) {
+    seriesURL = window.location.pathname;
+    seriesName = seriesURL.split('/')[3];
+} else {
+    seriesName = '';
+}
+
+if (getPageGroupType() == 'Technology Page') {
+    var pageCategory = getPageGroupType();
+} else if (getPageGroupType() == 'Technology Details Page') {
+    var pageCategory = 'Technology Details Page + ' + getTechPageGroupType();
+} else if (getPageGroupType() == 'Series Page') {
+    var pageCategory = 'Series Page + ' + seriesName;
+} else if (getPageGroupType() == 'Product List Page') {
+    var listName1 = $('.accessories-main .accessories-recommond .component_title').text().trim();
+    var listName2 = $('.tab-wrap .nav-content .page-title').text().trim();
+    if (!listName1) {
+        listName = listName2;
+    } else {
+        listName = listName1;
+    }
+    var pageCategory = 'Product List Page + ' + listName;
+} else {
+    var pageCategory = getPageGroupType();
+}
+
+//App or Web view
+var deviceCategory = function() {
+    var UserAgent = window.navigator.userAgent;
+    if (UserAgent.indexOf('UserCenter') !== -1 || UserAgent.indexOf('oppostore') !== -1) {
+        return 'app';
+    } else {
+        return 'web';
+    }
+};
+
+if ($('#particelShowerCanvas').length > 0) {
+    var getPageGroupType = function() {
+        return 'Events Page';
+    };
+    var pageCategory = 'Events Page';
+}
+
+//埋点触发方法，替代window.dataLayer
+var sendGAEvent = function(params) {
+    var dataLayer = window.dataLayer;
+    if (dataLayer) {
+        dataLayer.push({
+            event: 'uaEvent',
+            nonInteraction: params.nonInteraction,
+            eventCategory: params.eventCategory,
+            eventAction: params.eventAction,
+            eventLabel: params.eventLabel,
+            UserSource: 'from ' + deviceCategory()
+        });
+    }
+};
+</script>
+
+</html>

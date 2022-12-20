@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport"
+    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, viewport-fit=cover">
+  <title>泡泡玛特虚拟潮玩艺术周</title>
+  <link rel="icon" href="https://carh5.toutiao.com/favicon.ico" />
+  <link rel="shortcut icon" href="https://carh5.toutiao.com/favicon.ico" />
+  <style>
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #000;
+    }
+
+    .wrapper {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      text-align: center;
+
+      width: 100vw;
+      height: 100vh;
+
+      font-size: 20px;
+      font-weight: 600;
+      background-color: #000;
+
+      letter-spacing: 1px;
+      color: #fff;
+    }
+
+    #modal {
+      background-color: #22293A;
+      width: 60vw;
+      height: 200px;
+      position: absolute;
+    }
+
+    .content {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .mobile_bg {
+      height: 100%;
+      width: 100%;
+      margin: 0 auto;
+      background-image: url('./public/sharebg_mobile.jpg?v0405');
+      background-position: center;
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+
+    span {
+      display: block;
+      position: absolute;
+      right: 10px;
+      top: 10px;
+      background-image: url('./public/close.png?1');
+      background-size: contain;
+      background-repeat: no-repeat;
+      width: 24px;
+      height: 24px;
+    }
+
+    .info_mobile {
+      margin: 0;
+    }
+
+    @media (max-width:480px) {
+      .wrapper {
+        font-size: 16px;
+        line-height: 2;
+      }
+
+      #modal {
+        border-radius: 20px;
+        width: 295px;
+        height: 150px;
+      }
+
+      .info_pc {
+        display: none;
+      }
+
+      .pc_bg {
+        display: none;
+      }
+
+      span {
+        display: block;
+      }
+    }
+
+    @media (min-width:480px) {
+      #modal {
+        width: 350px;
+        height: 160px;
+        position: absolute;
+        border-radius: 20px;
+      }
+
+      .mobile_bg {
+        display: none;
+      }
+
+      .pc_bg {
+        width: 100%;
+        height: 100%;
+        background-image: url('./public/sharebg_pc.jpg?v0405') ;
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+      }
+
+      .info_mobile {
+        display: none;
+      }
+
+      span {
+        display: none;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="wrapper">
+    <!-- <div id="modal">
+      <div class="content">
+        <span onclick="onClick()"></span>
+        <p class="info_mobile">长按保存背景海报<br />
+          前往抖音APP识别二维码打开</p>
+        <p class="info_pc">请在移动设备上打开</p>
+      </div>
+    </div> -->
+    <!-- <img draggable={false} class="mobile_bg" alt="分享图片">
+    <img draggable={false} class="pc_bg" alt="分享图片"> -->
+    <div class="mobile_bg"></div>
+    <div class="pc_bg"></div>
+  </div>
+</body>
+<!-- <script>
+  const isMobile = () => {
+    const ua = navigator.userAgent;
+    if (mobileFlag === null) {
+      // IOS 13 safari 的 UA 中没有iPad标记，改用 platform 和 触点数量判断
+      const isiPad = ua.match(/(iPad)/) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+      mobileFlag = platform.os.family === 'iOS' || platform.os.family === 'Android' || platform.os.family === 'iPad' || isiPad;
+    }
+    return mobileFlag;
+  };
+
+  const changeOrientation = (container) => {
+    alert('changeOrientation')
+    if (!isMobile()) return; // 只有手机端生效
+
+    rotate(container, 0);
+    // 解决微信白条问题，修改为 ‘resize’
+    // const evt = 'onorientationchange' in window ? 'orientationchange' : 'resize';
+    const evt = 'resize';
+    const onOrientationHandler = () => {
+      rotate(container, 300);
+    };
+    window.addEventListener(evt, onOrientationHandler, false);
+  };
+
+  const rotate = (container, delay) => {
+    // 修改为防抖处理
+    // setTimeout(() => {
+    const width = document.documentElement.clientWidth;
+    const height = document.documentElement.clientHeight;
+    const dom = $(container);
+    // TODO 480提出来
+    if (width >= height) {
+      // 不做旋转处理
+      dom.width(width);
+      dom.height(height);
+      dom.css('top', 0);
+      dom.css('left', 0);
+      dom.css('transform', 'none');
+      dom.css('transform-origin', '50% 50%');
+      SIZE.islandscape = true;
+    } else {
+      // 对小数进行处理
+      if (((height - width) / 2).toString().includes('.')) {
+        dom.width(height + 1);
+        dom.height(width + 1);
+        dom.css('top', (height - width) / 2 - 1);
+        dom.css('left', 0 - ((height - width) / 2 + 1));
+        dom.css('transform', 'rotate(90deg)');
+        dom.css('transform-origin', '50% 50%');
+        SIZE.islandscape = false;
+      } else {
+        dom.width(height);
+        dom.height(width);
+        dom.css('top', (height - width) / 2);
+        dom.css('left', 0 - (height - width) / 2);
+        dom.css('transform', 'rotate(90deg)');
+        dom.css('transform-origin', '50% 50%');
+        SIZE.islandscape = false;
+      }
+    }
+    console.log('SIZE.islandscape', SIZE.islandscape);
+    Events.emit(EventConst.R2T_ROTATE_SCREEN);
+    // }, delay || 0);
+  };
+</script> -->
+<script>
+  // changeOrientation(".wrapper")
+  let isOpen = true
+  const timestamp = (new Date()).valueOf()
+  // function init () {
+  //   const img_mobile = document.getElementsByClassName('mobile_bg')[0]
+  //   const img_pc = document.getElementsByClassName('pc_bg')[0]
+  //     img_mobile.style.backgroundImage = `./public/sharebg_mobile.jpg?${timestamp}`
+  //     img_pc.style.backgroundImage = `./public/sharebg_pc.jpg?${timestamp}`
+  // }
+  // init()
+  // function onClick () {
+  //   isOpen = !isOpen
+  //   const modal = document.getElementById('modal')
+  //   modal.style.display = isOpen ? 'block' : 'none';
+  // }
+</script>
+
+</html>
