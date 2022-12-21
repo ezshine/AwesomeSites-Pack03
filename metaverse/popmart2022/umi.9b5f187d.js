@@ -8262,7 +8262,7 @@
                         uploadImage: "".concat(e, "?call=picture.upload"),
                         getGoods: "".concat(e, "?call=project6.goods_info"),
                         getWealGoods: "".concat(e, "/project6.info"),
-                        submitWealGoods: "".concat(e, "?call=project6.timeprize"),
+                        submitWealGoods: "".concat(e, "/project6.timeprize"),
                         getBroadCastList: "".concat(e, "/base.broadcast"),
                         getPrizeStock: "".concat(e, "?call=project6.lottery.stock"),
                         powerUsed: "".concat(e, "?call=project6.integral.used"),
@@ -8463,7 +8463,7 @@
                         for (; ; )
                             switch (e.prev = e.next) {
                             case 0:
-                                return e.abrupt("return", s.Z.post(h));
+                                return e.abrupt("return", s.Z.get(h));
                             case 1:
                             case "end":
                                 return e.stop()
@@ -8482,7 +8482,7 @@
                         for (; ; )
                             switch (e.prev = e.next) {
                             case 0:
-                                return e.abrupt("return", s.Z.post(f, {
+                                return e.abrupt("return", s.Z.get(f, {
                                     data: t
                                 }, n));
                             case 1:
