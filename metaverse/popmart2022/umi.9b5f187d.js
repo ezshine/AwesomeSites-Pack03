@@ -7719,13 +7719,7 @@
                 }(i.type, i.bdName, t, o)
             }
               , o = function() {
-                !function() {
-                    var e = document.createElement("script");
-                    e.src = "https://hm.baidu.com/hm.js?f25f45e416c81e0a7bdf03b4b8193ae3";
-                    var t = document.getElementsByTagName("script")[0];
-                    t.parentNode.insertBefore(e, t)
-                }(),
-                Date.parse((new Date).toString()) / 1e3
+                
             }
         },
         41186: function(e, t, n) {
